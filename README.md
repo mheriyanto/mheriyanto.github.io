@@ -1,5 +1,8 @@
 # mheriyanto.github.io
 
+![GitHub](https://img.shields.io/github/license/mheriyanto/mheriyanto.github.io.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/mheriyanto/mheriyanto.github.io.svg)
+![GitHub language count](https://img.shields.io/github/languages/count/mheriyanto/mheriyanto.github.io.svg)
 [![HitCount](http://hits.dwyl.io/mheriyanto/mheriyantogithubio.svg)](http://hits.dwyl.io/mheriyanto/mheriyantogithubio)
 
 MIT License
