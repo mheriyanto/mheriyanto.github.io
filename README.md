@@ -1,5 +1,7 @@
 # mheriyanto.github.io
 
+[![HitCount](http://hits.dwyl.io/mheriyanto/mheriyantogithubio.svg)](http://hits.dwyl.io/mheriyanto/mheriyantogithubio)
+
 MIT License
 
 Copyright (c) 2018 [Prateek Mishra](https://github.com/0xPrateek), 2019 modified by [M. Heriyanto](https://github.com/mheriyanto) 
