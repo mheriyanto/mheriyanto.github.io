@@ -2,7 +2,7 @@
 
 MIT License
 
-Copyright (c) 2018 Prateek Mishra, 2019 modified by M. Heriyanto 
+Copyright (c) 2018 [Prateek Mishra](https://github.com/0xPrateek), 2019 modified by [M. Heriyanto](https://github.com/mheriyanto) 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
