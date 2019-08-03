@@ -25,7 +25,7 @@ h1, h2, h3, h4, h5, h6 {font-family:'Open Sans', sans-serif;color:#444;}
 h1 {margin: 0; font-size: 4.75em; line-height: 1.2em; margin-bottom: 0.4em} /* 60px / 72px */
 h2 {margin: 0; font-size: 2.75em; line-height: 1.3em; margin-bottom: 0.5em} /* 48px / 48px */
 h3 {margin: 0; font-size: 2.25em; line-height: 1.3333333333333333333333333333333em; margin-bottom: 0.6667em} /* 36px / 48px */
-h4 {margin: 0; font-size: 1.5em; line-height: 1em; margin-bottom: 1em} /* 24px / 24px */
+h4 {margin: 0; font-size: 1.5em; line-height: 1em; margin-bottom: 0.3em} /* 24px / 24px */
 h5 {margin: 0; font-size: 1.3125em; line-height: 1.1428571428571428571428571428571em; margin-bottom: 1.1428571428571428571428571428571em} /* 21px / 24px */
 h6 {margin: 0; font-size: 2.75em; line-height: 1.2em; margin-bottom: 0.4em} /* 18px / 24px */
 h7 {margin: 0; font-size: 0.5em; line-height: 1.3em; margin-bottom: 0.5em}
@@ -287,7 +287,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 }
 .info h4, #header h4{
   color: #59BD85;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
 }
 .info h6, #header h6{
   text-transform: uppercase;
