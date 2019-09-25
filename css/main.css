@@ -773,8 +773,8 @@ Change widths as necessary
   h2, h3{page-break-after: avoid}
 }
 .project-div { background-color: #4AB478; text-align: center; padding: 10px; }
-.image {height: 100px;background-color: white;margin-bottom: 10px;font-family: Sofia;text-align: center;padding-top:30px;font-size: 20px;font-weight: bold;}
-.data { font-size: 150%;font-family: 'Amaranth';color: white;}
+.image {height: 100px;background-color: white;margin-bottom: 10px;font-family: Sofia;text-align: center;padding-top:10px;font-size: 15px;font-weight: bold;}
+.data { font-size: 100%;font-family: 'Amaranth';color: white;}
 td {padding: 20px;width:250px;height: 200px;}
 tbody {
     display: table-row-group;
