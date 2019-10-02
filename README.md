@@ -5,6 +5,9 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/mheriyanto/mheriyanto.github.io.svg)
 [![HitCount](http://hits.dwyl.io/mheriyanto/mheriyantogithubio.svg)](http://hits.dwyl.io/mheriyanto/mheriyantogithubio)
 
+![GitHub repo size](https://img.shields.io/github/repo-size/mheriyanto/mheriyanto.github.io)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mheriyanto/mheriyanto.github.io)
+
 MIT License
 
 Copyright (c) 2018 [Prateek Mishra](https://github.com/0xPrateek), 2019 modified by [M. Heriyanto](https://github.com/mheriyanto) 
