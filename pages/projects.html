@@ -5,6 +5,6 @@ permalink: /projects
 weight: 2
 ---
 
-<h2 class="text-center"><i class="fas fa-terminal"></i> coding projects</h2>
+<h2 class="text-center"><i class="fas fa-terminal"></i> projects</h2>
 {% assign sorted = site.projects | where_exp: "item", "item.type == 'coding'" | sort: "date" | reverse %}
 {% include projects/index.html %}
