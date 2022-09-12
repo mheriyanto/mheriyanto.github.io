@@ -1,5 +1,5 @@
 ---
-name: alhazen
+name: Alhazen
 tools: [product, database, indexing]
 image: assets/product_images/alhazen-banner.png
 description: database and web browser of Islamic researchers and journals
