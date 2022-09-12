@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : mheriyanto
 description         : >-
-                      <h3>Mohammad Heriyanto</h3>
+                      <h4><span style='font-weight: bold;'>Mohammad Heriyanto</span></h4>
                       <p>AI Engineer (Computer Vision) Geophysicist</p>
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : mheriyanto/mheriyanto.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
