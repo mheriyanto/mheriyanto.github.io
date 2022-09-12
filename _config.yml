@@ -1,8 +1,8 @@
 ### Site Settings ###
 title               : mheriyanto
 description         : >-
-                      <h3>Mohammad Heriyanto</h3><br>
-                      <p>AI Engineer (Computer Vision) | Geophysicist</p>
+                      <h3>Mohammad Heriyanto</h3>
+                      <p>AI Engineer (Computer Vision) Geophysicist</p>
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : mheriyanto/mheriyanto.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU@v2.3.0
