@@ -2,7 +2,7 @@
 # Get Colors from : https://brandcolors.net/
 
 wordpress:
-  url   : https://mheriyanto.wordpress.com/
+  url   : https://
   icon  : fab fa-wordpress
   color : 0087be
 
@@ -16,17 +16,17 @@ linkedin:
   icon  : fab fa-linkedin-in
   color : 007bb5
 
-twitter:
-  url   : https://www.twitter.com/
-  icon  : fab fa-twitter
-  color : 1da1f2
-
 email:
   url   : "mailto:"
   icon  : fas fa-envelope
   color : db4437
 
-dollar:
-  url   : https://www.paypal.me/
-  icon  : fas fa-circle-dollar
+twitter:
+  url   : https://www.twitter.com/
+  icon  : fab fa-twitter
+  color : 1da1f2
+
+contact:
+  url   : "mailto:"
+  icon  : fas fa-envelope-open-dollar
   color : 00b22d

@@ -2,7 +2,7 @@
 title               : mheriyanto
 description         : >-
                       <h4><span style='font-weight: bold;'>Mohammad Heriyanto</span></h4>
-                      <p><a href="https://www.wgu.edu/career-guide/information-technology/computer-vision-engineer-career.html#openSubscriberModal">AI Engineer (Computer Vision)</a><br>Geophysicist | <a href="https://careers.stateuniversity.com/pages/7794/Indexer.html">Indexer</a></p>
+                      <p>AI Engineer (<a href="https://en.wikipedia.org/wiki/Computer_vision">Computer Vision</a>)<br>Geophysicist | <a href="https://careers.stateuniversity.com/pages/7794/Indexer.html">Indexer</a></p>
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : mheriyanto/mheriyanto.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU@v2.3.0
@@ -26,12 +26,12 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : mheriyanto
   image             : assets/images/mheriyanto.jpg
-  wordpress         : about
+  wordpress         : mheriyanto.wordpress.com
   linkedin          : mheriyanto
   github            : mheriyanto
-  twitter           : emheriyanto
   email             : mheriyanto37@gmail.com
-  dollar            : heri.sajasa@gmail.com
+  twitter           : emheriyanto
+  contact           : heri.sajasa@gmail.com
 
 
 ### Posts ###
