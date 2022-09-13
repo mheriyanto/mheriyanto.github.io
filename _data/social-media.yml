@@ -28,5 +28,5 @@ email:
 
 dollar:
   url   : "mailto:"
-  icon  : fas fa-envelope-open-dollar
+  icon  : fas fa-circle-dollar
   color : 00b22d
