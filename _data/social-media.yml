@@ -26,7 +26,7 @@ email:
   icon  : fas fa-envelope
   color : db4437
 
-emailod:
+dollar:
   url   : "mailto:"
   icon  : fas fa-envelope-open-dollar
   color : db4437
