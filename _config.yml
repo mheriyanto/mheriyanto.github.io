@@ -26,9 +26,12 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : mheriyanto
   image             : assets/images/mheriyanto.jpg
+  wordpress         : about
   linkedin          : mheriyanto
   github            : mheriyanto
   twitter           : emheriyanto
+  email             : mheriyanto37@gmail.com
+  emailod           : heri.sajasa@gmail.com
 
 
 ### Posts ###
