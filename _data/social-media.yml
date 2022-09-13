@@ -27,6 +27,6 @@ email:
   color : db4437
 
 dollar:
-  url   : "mailto:"
+  url   : https://www.paypal.me/
   icon  : fas fa-circle-dollar
   color : 00b22d
