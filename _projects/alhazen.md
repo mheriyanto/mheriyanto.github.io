@@ -1,7 +1,7 @@
 ---
 name: Alhazen
 tools: [product, database, indexing]
-image: assets/product_images/alhazen-banner.png
+image: assets/product_images/alhazen.png
 description: database and web browser of Islamic researchers and journals
 external_url: https://github.com/Alhazenet
 date: 2022-09-12
