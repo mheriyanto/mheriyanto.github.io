@@ -1,0 +1,89 @@
+<ul class="fa-ul">
+    {% assign sorted = site.data.course.my-course | sort: "to" | reverse %}
+    {% for course in sorted %}
+    {% if course.category contains include.category %}
+
+    {% if course.from %}
+    {% assign check_year = course.from | date: "%Y" %}
+    {% assign check_date = course.from | date: "%d" %}
+    {% if check_date == "01" %}
+    {% assign date_from = course.from | date: "%B %Y" %}
+    {% else %}
+    {% assign date_from = course.from | date: "%d %B %Y" %}
+    {% endif %}
+    {% else %}
+    {% assign date_from = "" %}
+    {% endif %}
+
+    {% if course.to %}
+    {% assign check_year = course.to | date: "%Y" %}
+    {% assign check_date = course.to | date: "%d" %}
+    {% if check_year == "9999" %}
+    {% assign date_to = "now" %}
+    {% elsif check_year == "8888" %}
+    {% assign date_to = "later" %}
+    {% elsif check_year == "0000" %}
+    {% assign date_to = "unfinished" %}
+    {% elsif check_date == "01" %}
+    {% assign date_to = course.to | date: "%B %Y" %}
+    {% else %}
+    {% assign date_to = course.to | date: "%d %B %Y" %}
+    {% endif %}
+
+    {% else %}
+
+    {% if course.status == "hold" %}
+    {% assign date_to = "hold" %}
+    {% elsif course.status == "later" %}
+    {% assign date_to = "later" %}
+    {% else %}
+    {% assign date_to = "now" %}
+    {% endif %}
+
+    {% endif %}
+
+    {% if course.status %}
+    {% case course.status %}
+    {% when "ignore", "skip", "failed" %}
+    {% assign class_status = 'fa-solid fa-xmark' %}
+    {% when "hold", "pause", "later" %}
+    {% assign class_status = 'fa-regular fa-circle' %}
+    {% when "enrolled", "current" %}
+    {% assign class_status = 'fas fa-circle-notch fa-pulse' %}
+    {% endcase %}
+    {% elsif date_to == "now" %}
+    {% assign class_status = 'fas fa-circle-notch fa-pulse' %}
+    {% else %}
+    {% if course.certificate_url %}
+    {% assign class_status = 'fas fa-certificate' %}
+    {% else %}
+    {% assign class_status = 'far fa-check-circle' %}
+    {% endif %}
+    {% endif %}
+
+    <li><span class="fa-li"><i class="{{ class_status }}"></i></span>
+        <a href="{{ course.url }}"><strong>{{ course.title }}</strong></a>
+        | {{ course.mooc }}-<strong>{{ course.author }}</strong><br>
+        {% if date_from == date_to %}
+        <small>{{ date_to }}</small>
+        {% elsif date_from == "" %}
+        <small>{{ date_to }}</small>
+        {% else %}
+        <small>{{ date_from }} - {{ date_to }}</small>
+        {% endif %}
+        <small>
+            {% if course.grade %}
+            | Grade: {{ course.grade }}
+            {%- endif -%}
+            {% if course.certificate_url %}
+            | <a href="{{ course.certificate_url }}" target="_blank"><b>Certificate</b></a>
+            {%- endif -%}
+        </small><br>
+        {%- if course.note -%}<small>{{ course.note }}</small><br>{%- endif -%}
+        {%- for category in course.category -%}
+        <span class="badge badge-pill text-primary border border-primary mr-1">{{ category }}</span>
+        {%- endfor -%} <br><br>
+    </li>
+    {%- endif -%}
+    {%- endfor -%}
+</ul>
