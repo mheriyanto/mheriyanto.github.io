@@ -309,9 +309,9 @@
   certificate_url: 
   note: 
 
-- title: "Electrical Impedance Tomography: Computational on Forward and Inverse Problem "
+- title: "Electrical Impedance Tomography: Computational on Forward and Inverse Problem"
   mooc: IF-ITB
-  url: 
+  url: https://fti.itb.ac.id/the-4th-international-conference-on-instrumentation-control-and-automation-2016-ica-2016/
   category:
     - geophysics
     - resistivity
