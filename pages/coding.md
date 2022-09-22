@@ -1,6 +1,6 @@
 ---
 layout: default
-title: courses
+title: coding
 weight: 2
 ---
 
