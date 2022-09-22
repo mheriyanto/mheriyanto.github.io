@@ -9,18 +9,18 @@ weight: 2
 
 Berikut daftar kelas/kursus/kuliah online yang telah diambil atau sedang ditempuh:
 
-### AI
+## Coursera
 
-{% include train.html category="codai" %}
+{% include train.html category="coursera" %}
 
-### Geophysics
+## edX
 
-{% include train.html category="codge" %}
+{% include train.html category="edx" %}
 
-## General
+## Udemy
 
-{% include train.html category="leadership" %}
+{% include train.html category="udemy" %}
 
-## Seminars
+## Linux
 
-{% include train.html category="semai" %}
+{% include train.html category="linux" %}
