@@ -9,10 +9,6 @@ weight: 2
 
 Berikut daftar kelas/kursus/kuliah online yang telah diambil atau sedang ditempuh:
 
-### General
-
-{% include course.html category="code-lang" %}
-
 ### AI
 
 {% include course.html category="code-ai" %}
