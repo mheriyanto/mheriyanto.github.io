@@ -10,12 +10,12 @@ Berikut daftar sertifikasi yang telah diambil:
 
 ### AI
 
-{% include course.html category="certifications-ai" %}
+{% include course.html category="certai" %}
 
 ### Geophysics
 
-{% include course.html category="certifications-geo" %}
+{% include course.html category="cergeo" %}
 
 ### General
 
-{% include course.html category="certifications-general" %}
+{% include course.html category="cergen" %}

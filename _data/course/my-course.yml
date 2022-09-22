@@ -21,7 +21,7 @@
   url: https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229
   category:
     - udacity
-    - certifications-ai
+    - certai
     - ai
     - machine-learning
     - pytorch
@@ -38,7 +38,7 @@
   url: https://training.linuxfoundation.org/training/pytorch-and-deep-learning-for-decision-makers-lfs116x/
   category:
     - linux
-    - certifications-ai
+    - certai
     - ai
     - deep-learning
     - pytorch
@@ -55,7 +55,7 @@
   url: https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning
   category:
     - edx
-    - certifications-ai
+    - certai
     - ai
     - machine-learning
     - tinyml
@@ -72,7 +72,7 @@
   url: https://www.edx.org/professional-certificate/harvardx-applied-tiny-machine-learning-tinyml-for-scale?index=undefined
   category:
     - edx
-    - certifications-ai
+    - certai
     - ai
     - machine-learning
     - tinyml
@@ -91,7 +91,7 @@
   mooc: ITB International Geothermal Workshop
   url: https://geothermal.itb.ac.id/training-program-online/
   category:
-    - certifications-geo
+    - cergeo
     - geothermal
   author: ITB International Geothermal Workshop
   from: 2015-06-01
@@ -104,7 +104,7 @@
   mooc: PT Jatific
   url: https://www.jatific.com/product/syscal-pro/
   category:
-    - certifications-geo
+    - cergeo
     - instrumentation
     - resistivity
   author: PT Jatific
@@ -118,7 +118,7 @@
   mooc: PT EGS Indonesia
   url: http://www.geophysicsindonesia.com/equipment
   category:
-    - certifications-geo
+    - cergeo
     - instrumentation
     - magnetics
   author: PT EGS Indonesia
@@ -132,7 +132,7 @@
   mooc: PT EXACT GLOBAL TEKNOLOGI
   url: https://www.exactglobal.co.id/mala-easy-locator-pro-widerange-hdr-new/
   category:
-    - certifications-geo
+    - cergeo
     - instrumentation
     - gpr
   author: PT EXACT GLOBAL TEKNOLOGI
@@ -149,7 +149,7 @@
   url: https://www.linkedin.com/company/franklincovey/
   category:
     - edx
-    - certifications-general
+    - cergen
     - leadership
   author: FranklinCovey
   from: 2012-08-01
@@ -169,7 +169,7 @@
     - coursera
     - ai
     - machine-learning
-    - code-ai
+    - codai
   author: DeepLearning.AI & Standford University
   from: 2022-08-01
   to: now
@@ -184,7 +184,7 @@
     - coursera
     - ai
     - deep-learning
-    - code-ai
+    - codai
   author: DeepLearning.AI
   from: 2022-08-01
   to: now
@@ -199,7 +199,7 @@
     - coursera
     - ai
     - mlops
-    - code-ai
+    - codai
   author: DeepLearning.AI
   from: 2022-08-01
   to: now
@@ -217,7 +217,7 @@
     - ai
     - tinyml
     - machine-learning
-    - code-ai
+    - codai
   author: Harvard University & Google
   from: 
   to: 
@@ -233,7 +233,7 @@
     - ai
     - tinyml
     - machine-learning
-    - code-ai
+    - codai
   author: Harvard University & Google
   from: 
   to: 
@@ -249,7 +249,7 @@
     - ai
     - tinyml
     - machine-learning
-    - code-ai
+    - codai
   author: Harvard University & Google
   from: 
   to: 
@@ -266,7 +266,7 @@
     - tinyml
     - machine-learning
     - mlops
-    - code-ai
+    - codai
   author: Harvard University & Google
   from: 
   to: 
@@ -282,7 +282,7 @@
   category:
     - udemy
     - machine-learning
-    - code-ai
+    - codai
   author: "Moussa Taifi"
   from: 
   to: 
@@ -301,7 +301,7 @@
   category:
     - geophysics
     - seismic
-    - code-geo
+    - codge
   author: CGG
   from: 2019-02-01
   to: 2020-02-01
@@ -315,7 +315,7 @@
   category:
     - geophysics
     - resistivity
-    - code-geo
+    - codge
   author: IF-ITB
   from: 2016-08-29
   to: now
@@ -344,7 +344,7 @@
   mooc: brighttalk
   url: https://www.brighttalk.com/webcast/6793/424551
   category:
-    - seminars-ai
+    - semai
   author: Canonical & Manceps
   from: 2022-04-04
   to: 2022-04-04
@@ -356,7 +356,7 @@
   mooc: brighttalk
   url: https://www.brighttalk.com/webcast/6793/427925
   category:
-    - seminars-ai
+    - semai
   author: Canonical
   from: 2022-04-02
   to: 2022-04-02
@@ -368,7 +368,7 @@
   mooc: brighttalk
   url: https://www.brighttalk.com/webcast/6793/451777
   category:
-    - seminars-ai
+    - semai
   author: Canonical
   from: 2022-04-04
   to: 2022-04-04
@@ -380,7 +380,7 @@
   mooc: brighttalk
   url: http://www.brighttalk.com/webcast/17523/519787
   category:
-    - seminars-ai
+    - semai
   author: GitLab
   from: 2022-04-04
   to: 2022-04-04
@@ -392,7 +392,7 @@
   mooc: brighttalk
   url: http://www.brighttalk.com/webcast/6793/536837
   category:
-    - seminars-ai
+    - semai
   author: Canonical
   from: 2022-04-15
   to: 2022-04-15
