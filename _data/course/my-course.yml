@@ -28,60 +28,8 @@
     - code
   author: Kaggle & aws
   from: 2022-09-23
-  to: now
-  grade: 
-  certificate_url: 
-  note: 
-
-- title: PyTorch and Deep Learning for Decision Makers (LFS116x)
-  mooc: Linux
-  url: https://training.linuxfoundation.org/training/pytorch-and-deep-learning-for-decision-makers-lfs116x/
-  category:
-    - linux
-    - certai
-    - ai
-    - deep-learning
-    - pytorch
-    - code
-  author: Linux
-  from: 2022-09-23
-  to: now
-  grade: 
-  certificate_url: 
-  note: 
-
-- title: Tiny Machine Learning (TinyML)
-  mooc: edX
-  url: https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning
-  category:
-    - edx
-    - certai
-    - ai
-    - machine-learning
-    - tinyml
-    - code
-  author: Harvard University & Google
-  from: 2022-09-23
-  to: now
-  grade: 
-  certificate_url: 
-  note: 
-
-- title: Applied Tiny Machine Learning (TinyML) for Scale
-  mooc: edX
-  url: https://www.edx.org/professional-certificate/harvardx-applied-tiny-machine-learning-tinyml-for-scale?index=undefined
-  category:
-    - edx
-    - certai
-    - ai
-    - machine-learning
-    - tinyml
-    - mlops
-    - code
-  author: Harvard University & Google
-  from: 2022-09-23
-  to: now
-  grade: 
+  to:
+  grade:
   certificate_url: 
   note: 
 
@@ -95,52 +43,10 @@
     - geothermal
   author: ITB International Geothermal Workshop
   from: 2015-06-01
-  to: now
+  to:
   grade: 
   certificate_url: 
-  note: 
-
-- title: IRIS Syscal Pro - 48 Channel automatic Geoelectrical Instrument
-  mooc: PT Jatific
-  url: https://www.jatific.com/product/syscal-pro/
-  category:
-    - cergeo
-    - instrumentation
-    - resistivity
-  author: PT Jatific
-  from: 2018-01-01
-  to: now
-  grade: 
-  certificate_url: 
-  note: 
-
-- title: Geometrics PPM Magnetometers equipped with Gradiometry sensor
-  mooc: PT EGS Indonesia
-  url: http://www.geophysicsindonesia.com/equipment
-  category:
-    - cergeo
-    - instrumentation
-    - magnetics
-  author: PT EGS Indonesia
-  from: 2018-01-01
-  to: now
-  grade: 
-  certificate_url: 
-  note: 
-
-- title: GPR MALA – Easy Locator Pro WideRange HDR
-  mooc: PT EXACT GLOBAL TEKNOLOGI
-  url: https://www.exactglobal.co.id/mala-easy-locator-pro-widerange-hdr-new/
-  category:
-    - cergeo
-    - instrumentation
-    - gpr
-  author: PT EXACT GLOBAL TEKNOLOGI
-  from: 2018-12-01
-  to: now
-  grade: 
-  certificate_url: 
-  note: 
+  note:  
 
 ## CERTIFICATIONS: GENERAL
 
@@ -153,7 +59,7 @@
     - leadership
   author: FranklinCovey
   from: 2012-08-01
-  to: now
+  to:
   grade: 
   certificate_url: 
   note: 
@@ -172,37 +78,7 @@
     - codai
   author: DeepLearning.AI & Standford University
   from: 2022-08-01
-  to: now
-  grade: 
-  certificate_url: 
-  note: 
-
-- title: Deep Learning Specialization
-  mooc: Coursera
-  url: https://www.coursera.org/specializations/deep-learning
-  category:
-    - coursera
-    - ai
-    - deep-learning
-    - codai
-  author: DeepLearning.AI
-  from: 2022-08-01
-  to: now
-  grade: 
-  certificate_url: 
-  note: 
-
-- title: Machine Learning Engineering for Production (MLOps) Specialization
-  mooc: Coursera
-  url: https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops
-  category:
-    - coursera
-    - ai
-    - mlops
-    - codai
-  author: DeepLearning.AI
-  from: 2022-08-01
-  to: now
+  to:
   grade: 
   certificate_url: 
   note: 
@@ -220,56 +96,7 @@
     - codai
   author: Harvard University & Google
   from: 2022-09-23
-  to: now
-  grade: 
-  certificate_url: 
-  note:
-
-- title: "Applications of TinyML"
-  mooc: edX
-  url: https://www.edx.org/course/applications-of-tinyml
-  category:
-    - edx
-    - ai
-    - tinyml
-    - machine-learning
-    - codai
-  author: Harvard University & Google
-  from: 2022-09-23
-  to: now
-  grade: 
-  certificate_url: 
-  note:
-
-- title: "Deploying TinyML"
-  mooc: edX
-  url: https://www.edx.org/course/deploying-tinyml
-  category:
-    - edx
-    - ai
-    - tinyml
-    - machine-learning
-    - codai
-  author: Harvard University & Google
-  from: 2022-09-23
-  to: now
-  grade: 
-  certificate_url: 
-  note:
-
-- title: "MLOps for Scaling TinyML"
-  mooc: edX
-  url: https://www.edx.org/course/mlops-for-scaling-tinyml
-  category:
-    - edx
-    - ai
-    - tinyml
-    - machine-learning
-    - mlops
-    - codai
-  author: Harvard University & Google
-  from: 2022-09-23
-  to: now
+  to:
   grade: 
   certificate_url: 
   note:
@@ -285,7 +112,7 @@
     - codai
   author: "Moussa Taifi"
   from: 2022-09-23
-  to: now
+  to:
   grade:
   certificate_url: 
   note:
@@ -305,20 +132,6 @@
   author: CGG
   from: 2019-02-01
   to: 2020-02-01
-  grade: 
-  certificate_url: 
-  note: 
-
-- title: "Electrical Impedance Tomography: Computational on Forward and Inverse Problem"
-  mooc: IF-ITB
-  url: https://fti.itb.ac.id/the-4th-international-conference-on-instrumentation-control-and-automation-2016-ica-2016/
-  category:
-    - geophysics
-    - resistivity
-    - codge
-  author: IF-ITB
-  from: 2016-08-29
-  to: now
   grade: 
   certificate_url: 
   note: 
@@ -348,54 +161,6 @@
   author: Canonical & Manceps
   from: 2022-04-04
   to: 2022-04-04
-  grade: 
-  certificate_url: 
-  note:
-
-- title: "Production AI from data lake to server: Solving HW challenges in ML environments"
-  mooc: brighttalk
-  url: https://www.brighttalk.com/webcast/6793/427925
-  category:
-    - semai
-  author: Canonical
-  from: 2022-04-02
-  to: 2022-04-02
-  grade: 
-  certificate_url: 
-  note:
-
-- title: "AI deployment and inference: reliable infrastructure and streamlined operations"
-  mooc: brighttalk
-  url: https://www.brighttalk.com/webcast/6793/451777
-  category:
-    - semai
-  author: Canonical
-  from: 2022-04-04
-  to: 2022-04-04
-  grade: 
-  certificate_url: 
-  note:
-
-- title: "Intro to MLOps with GitLab DevOps Platform Demo"
-  mooc: brighttalk
-  url: http://www.brighttalk.com/webcast/17523/519787
-  category:
-    - semai
-  author: GitLab
-  from: 2022-04-04
-  to: 2022-04-04
-  grade: 
-  certificate_url: 
-  note:
-
-- title: "Introduction to MLOps: Six proven techniques to amplify AI maturity"
-  mooc: brighttalk
-  url: http://www.brighttalk.com/webcast/6793/536837
-  category:
-    - semai
-  author: Canonical
-  from: 2022-04-15
-  to: 2022-04-15
   grade: 
   certificate_url: 
   note:
