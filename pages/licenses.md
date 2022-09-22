@@ -10,12 +10,12 @@ Berikut daftar sertifikasi yang telah diambil:
 
 ### AI
 
-{% include mooc.html category="certai" %}
+{% include train.html category="certai" %}
 
 ### Geophysics
 
-{% include mooc.html category="cergeo" %}
+{% include train.html category="cergeo" %}
 
 ### General
 
-{% include mooc.html category="cergen" %}
+{% include train.html category="cergen" %}

@@ -11,16 +11,16 @@ Berikut daftar kelas/kursus/kuliah online yang telah diambil atau sedang ditempu
 
 ### AI
 
-{% include mooc.html category="codai" %}
+{% include train.html category="codai" %}
 
 ### Geophysics
 
-{% include mooc.html category="codge" %}
+{% include train.html category="codge" %}
 
 ## General
 
-{% include mooc.html category="leadership" %}
+{% include train.html category="leadership" %}
 
 ## Seminars
 
-{% include mooc.html category="semai" %}
+{% include train.html category="semai" %}

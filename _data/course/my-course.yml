@@ -27,8 +27,8 @@
     - pytorch
     - code
   author: Kaggle & aws
-  from: 
-  to: 
+  from: 2022-09-23
+  to: now
   grade: 
   certificate_url: 
   note: 
@@ -44,8 +44,8 @@
     - pytorch
     - code
   author: Linux
-  from: 
-  to: 
+  from: 2022-09-23
+  to: now
   grade: 
   certificate_url: 
   note: 
@@ -61,8 +61,8 @@
     - tinyml
     - code
   author: Harvard University & Google
-  from: 
-  to: 
+  from: 2022-09-23
+  to: now
   grade: 
   certificate_url: 
   note: 
@@ -79,8 +79,8 @@
     - mlops
     - code
   author: Harvard University & Google
-  from: 
-  to: 
+  from: 2022-09-23
+  to: now
   grade: 
   certificate_url: 
   note: 
@@ -219,8 +219,8 @@
     - machine-learning
     - codai
   author: Harvard University & Google
-  from: 
-  to: 
+  from: 2022-09-23
+  to: now
   grade: 
   certificate_url: 
   note:
@@ -235,8 +235,8 @@
     - machine-learning
     - codai
   author: Harvard University & Google
-  from: 
-  to: 
+  from: 2022-09-23
+  to: now
   grade: 
   certificate_url: 
   note:
@@ -251,8 +251,8 @@
     - machine-learning
     - codai
   author: Harvard University & Google
-  from: 
-  to: 
+  from: 2022-09-23
+  to: now
   grade: 
   certificate_url: 
   note:
@@ -268,8 +268,8 @@
     - mlops
     - codai
   author: Harvard University & Google
-  from: 
-  to: 
+  from: 2022-09-23
+  to: now
   grade: 
   certificate_url: 
   note:
@@ -284,8 +284,8 @@
     - machine-learning
     - codai
   author: "Moussa Taifi"
-  from: 
-  to: 
+  from: 2022-09-23
+  to: now
   grade:
   certificate_url: 
   note:
