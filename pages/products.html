@@ -4,7 +4,3 @@ title: products
 permalink: /products
 weight: 1
 ---
-
-<h2 class="text-center mt-5"><i class="fas fa-star"></i> products</h2>
-{% assign sorted = site.projects | where_exp: "item", "item.type == 'coding'" | sort: "date" | reverse %}
-{% include projects/index.html %}

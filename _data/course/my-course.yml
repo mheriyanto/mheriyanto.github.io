@@ -12,7 +12,7 @@
 #   note: {{ note }}
 #   status: {{ nill enrolled | hold | ignore }}
 
-## CERTIFICATIONS
+## ========== CERTIFICATIONS ==========
 
 ## CERTIFICATIONS: AI
 
@@ -21,7 +21,7 @@
   url: https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229
   category:
     - udacity
-    - certifications
+    - certifications-ai
     - ai
     - machine-learning
     - pytorch
@@ -38,7 +38,7 @@
   url: https://training.linuxfoundation.org/training/pytorch-and-deep-learning-for-decision-makers-lfs116x/
   category:
     - linux
-    - certifications
+    - certifications-ai
     - ai
     - deep-learning
     - pytorch
@@ -55,7 +55,7 @@
   url: https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning
   category:
     - edx
-    - certifications
+    - certifications-ai
     - ai
     - machine-learning
     - tinyml
@@ -72,7 +72,7 @@
   url: https://www.edx.org/professional-certificate/harvardx-applied-tiny-machine-learning-tinyml-for-scale?index=undefined
   category:
     - edx
-    - certifications
+    - certifications-ai
     - ai
     - machine-learning
     - tinyml
@@ -85,9 +85,80 @@
   certificate_url: 
   note: 
 
-
 ## CERTIFICATIONS: GEOPHYSICS
 
+- title: Training Introduction of Geothermal Power Plant Operationg System
+  mooc: ITB International Geothermal Workshop
+  url: https://geothermal.itb.ac.id/training-program-online/
+  category:
+    - certifications-geo
+    - geothermal
+  author: ITB International Geothermal Workshop
+  from: 2015-06-01
+  to: now
+  grade: 
+  certificate_url: 
+  note: 
+
+- title: IRIS Syscal Pro - 48 Channel automatic Geoelectrical Instrument
+  mooc: PT Jatific
+  url: https://www.jatific.com/product/syscal-pro/
+  category:
+    - certifications-geo
+    - instrumentation
+    - resistivity
+  author: PT Jatific
+  from: 2018-01-01
+  to: now
+  grade: 
+  certificate_url: 
+  note: 
+
+- title: Geometrics PPM Magnetometers equipped with Gradiometry sensor
+  mooc: PT EGS Indonesia
+  url: http://www.geophysicsindonesia.com/equipment
+  category:
+    - certifications-geo
+    - instrumentation
+    - magnetics
+  author: PT EGS Indonesia
+  from: 2018-01-01
+  to: now
+  grade: 
+  certificate_url: 
+  note: 
+
+- title: GPR MALA – Easy Locator Pro WideRange HDR
+  mooc: PT EXACT GLOBAL TEKNOLOGI
+  url: https://www.exactglobal.co.id/mala-easy-locator-pro-widerange-hdr-new/
+  category:
+    - certifications-geo
+    - instrumentation
+    - gpr
+  author: PT EXACT GLOBAL TEKNOLOGI
+  from: 2018-12-01
+  to: now
+  grade: 
+  certificate_url: 
+  note: 
+
+## CERTIFICATIONS: GENERAL
+
+- title: Stephen R. Covey's Seven Habits of Highly Effective College Students
+  mooc: FranklinCovey
+  url: https://www.linkedin.com/company/franklincovey/
+  category:
+    - edx
+    - certifications-general
+    - leadership
+  author: FranklinCovey
+  from: 2012-08-01
+  to: now
+  grade: 
+  certificate_url: 
+  note: 
+
+## ========== MOOC ==========
 
 ## COURSERA
 
@@ -98,7 +169,7 @@
     - coursera
     - ai
     - machine-learning
-    - code
+    - code-ai
   author: DeepLearning.AI & Standford University
   from: 2022-08-01
   to: now
@@ -113,7 +184,7 @@
     - coursera
     - ai
     - deep-learning
-    - code
+    - code-ai
   author: DeepLearning.AI
   from: 2022-08-01
   to: now
@@ -128,14 +199,13 @@
     - coursera
     - ai
     - mlops
-    - code
+    - code-ai
   author: DeepLearning.AI
   from: 2022-08-01
   to: now
   grade: 
   certificate_url: 
   note: 
-
 
 ## edX
 
@@ -147,7 +217,7 @@
     - ai
     - tinyml
     - machine-learning
-    - code
+    - code-ai
   author: Harvard University & Google
   from: 
   to: 
@@ -163,7 +233,7 @@
     - ai
     - tinyml
     - machine-learning
-    - code
+    - code-ai
   author: Harvard University & Google
   from: 
   to: 
@@ -179,7 +249,7 @@
     - ai
     - tinyml
     - machine-learning
-    - code
+    - code-ai
   author: Harvard University & Google
   from: 
   to: 
@@ -196,7 +266,7 @@
     - tinyml
     - machine-learning
     - mlops
-    - code
+    - code-ai
   author: Harvard University & Google
   from: 
   to: 
@@ -212,7 +282,7 @@
   category:
     - udemy
     - machine-learning
-    - code
+    - code-ai
   author: "Moussa Taifi"
   from: 
   to: 
@@ -224,3 +294,108 @@
 ## Linux
 
 ## GEOPHYSICS
+
+- title: "CGG GeoSoftware: iRocks-CGG Rock Physics Education Series"
+  mooc: CGG
+  url: https://www.cgg.com/resources/media-events/training/rock-physics-seismic-interpretation-and-analysis-course
+  category:
+    - geophysics
+    - seismic
+    - code-geo
+  author: CGG
+  from: 2019-02-01
+  to: 2020-02-01
+  grade: 
+  certificate_url: 
+  note: 
+
+- title: "Electrical Impedance Tomography: Computational on Forward and Inverse Problem "
+  mooc: IF-ITB
+  url: 
+  category:
+    - geophysics
+    - resistivity
+    - code-geo
+  author: IF-ITB
+  from: 2016-08-29
+  to: now
+  grade: 
+  certificate_url: 
+  note: 
+
+## GENERAL
+
+- title: Leadership Through Action 
+  mooc: PT Bank Central Asia Tbk
+  url: https://jabar.tribunnews.com/2014/09/20/bca-gelar-seminarleadershipthrough-action
+  category:
+    - leadership
+  author: PT Bank Central Asia Tbk
+  from: 2014-09-01
+  to: 2015-09-01
+  grade: 
+  certificate_url: 
+  note: 
+
+
+## ========== SEMINARS ==========
+
+- title: "Demystifying Kubeflow pipelines: from tensorflow notebook to pipeline"
+  mooc: brighttalk
+  url: https://www.brighttalk.com/webcast/6793/424551
+  category:
+    - seminars-ai
+  author: Canonical & Manceps
+  from: 2022-04-04
+  to: 2022-04-04
+  grade: 
+  certificate_url: 
+  note:
+
+- title: "Production AI from data lake to server: Solving HW challenges in ML environments"
+  mooc: brighttalk
+  url: https://www.brighttalk.com/webcast/6793/427925
+  category:
+    - seminars-ai
+  author: Canonical
+  from: 2022-04-02
+  to: 2022-04-02
+  grade: 
+  certificate_url: 
+  note:
+
+- title: "AI deployment and inference: reliable infrastructure and streamlined operations"
+  mooc: brighttalk
+  url: https://www.brighttalk.com/webcast/6793/451777
+  category:
+    - seminars-ai
+  author: Canonical
+  from: 2022-04-04
+  to: 2022-04-04
+  grade: 
+  certificate_url: 
+  note:
+
+- title: "Intro to MLOps with GitLab DevOps Platform Demo"
+  mooc: brighttalk
+  url: http://www.brighttalk.com/webcast/17523/519787
+  category:
+    - seminars-ai
+  author: GitLab
+  from: 2022-04-04
+  to: 2022-04-04
+  grade: 
+  certificate_url: 
+  note:
+
+- title: "Introduction to MLOps: Six proven techniques to amplify AI maturity"
+  mooc: brighttalk
+  url: http://www.brighttalk.com/webcast/6793/536837
+  category:
+    - seminars-ai
+  author: Canonical
+  from: 2022-04-15
+  to: 2022-04-15
+  grade: 
+  certificate_url: 
+  note:
