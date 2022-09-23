@@ -5,7 +5,7 @@ permalink: /mooc
 weight: 10
 ---
 
-# My MOOC/Course Experience
+# My Course Experiences
 
 ## Coursera
 
