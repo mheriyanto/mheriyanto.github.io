@@ -2,7 +2,7 @@
 layout: default
 title: courses
 permalink: /courses
-weight: 2
+weight: 3
 ---
 
 <br/>

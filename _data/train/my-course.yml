@@ -21,7 +21,7 @@
   url: https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229
   category:
     - udacity
-    - certai
+    - cerai
     - ai
     - machine-learning
     - pytorch
@@ -38,7 +38,7 @@
   url: https://training.linuxfoundation.org/training/pytorch-and-deep-learning-for-decision-makers-lfs116x/
   category:
     - linux
-    - certai
+    - cerai
     - ai
     - deep-learning
     - pytorch
@@ -55,7 +55,7 @@
   url: https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning
   category:
     - edx
-    - certai
+    - cerai
     - ai
     - machine-learning
     - tinyml
@@ -72,7 +72,7 @@
   url: https://www.edx.org/professional-certificate/harvardx-applied-tiny-machine-learning-tinyml-for-scale?index=undefined
   category:
     - edx
-    - certai
+    - cerai
     - ai
     - machine-learning
     - tinyml

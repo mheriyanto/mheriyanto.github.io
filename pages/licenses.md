@@ -2,7 +2,7 @@
 layout: default
 title: licenses
 permalink: /licenses
-weight: 3
+weight: 2
 ---
 
 <br/>
@@ -11,7 +11,7 @@ weight: 3
 
 ##### Artificial Intelligence
 
-{% include train.html category="certai" %}
+{% include train.html category="cerai" %}
 
 ##### Geophysics
 
