@@ -9,18 +9,18 @@ weight: 10
 
 ## Coursera
 
-{% include train.html category="coursera" %}
+{% include training.html category="coursera" %}
 
 ## edX
 
-{% include train.html category="edx" %}
+{% include training.html category="edx" %}
 
 ## Udemy
 
-{% include train.html category="udemy" %}
+{% include training.html category="udemy" %}
 
 ## Linux
 
-{% include train.html category="linux" %}
+{% include training.html category="linux" %}
 
 

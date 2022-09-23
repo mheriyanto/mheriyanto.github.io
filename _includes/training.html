@@ -1,5 +1,5 @@
 <ul class="fa-ul">
-    {% assign sorted = site.data.train.my-course | sort: "to" | reverse %}
+    {% assign sorted = site.data.my-course | sort: "to" | reverse %}
     {% for course in sorted %}
     {% if course.category contains include.category %}
 
