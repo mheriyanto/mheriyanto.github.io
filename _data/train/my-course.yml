@@ -16,7 +16,7 @@
 
 ## CERTIFICATIONS: AI
 
-- title: Intro to Machine Learning with PyTorch
+- title: "Intro to Machine Learning with PyTorch"
   mooc: Udacity
   url: https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229
   category:
@@ -33,7 +33,7 @@
   certificate_url: 
   note: 
 
-- title: PyTorch and Deep Learning for Decision Makers (LFS116x)
+- title: "PyTorch and Deep Learning for Decision Makers (LFS116x)"
   mooc: Linux
   url: https://training.linuxfoundation.org/training/pytorch-and-deep-learning-for-decision-makers-lfs116x/
   category:
@@ -50,7 +50,7 @@
   certificate_url: 
   note: 
 
-- title: Tiny Machine Learning (TinyML)
+- title: "Tiny Machine Learning (TinyML)"
   mooc: edX
   url: https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning
   category:
@@ -67,7 +67,7 @@
   certificate_url: 
   note: 
 
-- title: Applied Tiny Machine Learning (TinyML) for Scale
+- title: "Applied Tiny Machine Learning (TinyML) for Scale"
   mooc: edX
   url: https://www.edx.org/professional-certificate/harvardx-applied-tiny-machine-learning-tinyml-for-scale?index=undefined
   category:
@@ -87,7 +87,7 @@
 
 ## CERTIFICATIONS: GEOPHYSICS
 
-- title: Training Introduction of Geothermal Power Plant Operationg System
+- title: "Training Introduction of Geothermal Power Plant Operationg System"
   mooc: ITB International Geothermal Workshop
   url: https://geothermal.itb.ac.id/training-program-online/
   category:
@@ -100,7 +100,7 @@
   certificate_url: 
   note: 
 
-- title: IRIS Syscal Pro - 48 Channel automatic Geoelectrical Instrument
+- title: "IRIS Syscal Pro - 48 Channel automatic Geoelectrical Instrument"
   mooc: PT Jatific
   url: https://www.jatific.com/product/syscal-pro/
   category:
@@ -114,7 +114,7 @@
   certificate_url: 
   note: 
 
-- title: Geometrics PPM Magnetometers equipped with Gradiometry sensor
+- title: "Geometrics PPM Magnetometers equipped with Gradiometry sensor"
   mooc: PT EGS Indonesia
   url: http://www.geophysicsindonesia.com/equipment
   category:
@@ -128,7 +128,7 @@
   certificate_url: 
   note: 
 
-- title: GPR MALA – Easy Locator Pro WideRange HDR
+- title: "GPR MALA Easy Locator Pro WideRange HDR"
   mooc: PT EXACT GLOBAL TEKNOLOGI
   url: https://www.exactglobal.co.id/mala-easy-locator-pro-widerange-hdr-new/
   category:
@@ -144,7 +144,7 @@
 
 ## CERTIFICATIONS: GENERAL
 
-- title: Stephen R. Covey's Seven Habits of Highly Effective College Students
+- title: "Stephen R. Covey's Seven Habits of Highly Effective College Students"
   mooc: FranklinCovey
   url: https://www.linkedin.com/company/franklincovey/
   category:
@@ -162,7 +162,7 @@
 
 ## COURSERA
 
-- title: Machine Learning Specialization
+- title: "Machine Learning Specialization"
   mooc: Coursera
   url: https://www.coursera.org/specializations/machine-learning-introduction
   category:
@@ -177,7 +177,7 @@
   certificate_url: 
   note: 
 
-- title: Deep Learning Specialization
+- title: "Deep Learning Specialization"
   mooc: Coursera
   url: https://www.coursera.org/specializations/deep-learning
   category:
@@ -192,7 +192,7 @@
   certificate_url: 
   note: 
 
-- title: Machine Learning Engineering for Production (MLOps) Specialization
+- title: "Machine Learning Engineering for Production (MLOps) Specialization"
   mooc: Coursera
   url: https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops
   category:
@@ -325,7 +325,7 @@
 
 ## GENERAL
 
-- title: Leadership Through Action 
+- title: "Leadership Through Action"
   mooc: PT Bank Central Asia Tbk
   url: https://jabar.tribunnews.com/2014/09/20/bca-gelar-seminarleadershipthrough-action
   category:
