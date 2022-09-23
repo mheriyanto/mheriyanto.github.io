@@ -1,26 +1,27 @@
 ---
 layout: default
 title: courses
+permalink: /courses
 weight: 2
 ---
 
 
-## Coding Course
+### Coding Course
 
 Berikut daftar kelas/kursus/kuliah online yang telah diambil atau sedang ditempuh:
 
-### AI
+#### AI
 
 {% include train.html category="codai" %}
 
-### Geophysics
+#### Geophysics
 
 {% include train.html category="codge" %}
 
-## General
+### General
 
 {% include train.html category="leadership" %}
 
-## Seminars
+### Seminars
 
 {% include train.html category="semai" %}

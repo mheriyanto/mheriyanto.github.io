@@ -1,21 +1,22 @@
 ---
 layout: default
 title: licenses
+permalink: /licenses
 weight: 3
 ---
 
-## Licenses & Certifications
+### Licenses & Certifications
 
 Berikut daftar sertifikasi yang telah diambil:
 
-### AI
+#### AI
 
 {% include train.html category="certai" %}
 
-### Geophysics
+#### Geophysics
 
 {% include train.html category="cergeo" %}
 
-### General
+#### General
 
 {% include train.html category="cergen" %}
