@@ -5,18 +5,18 @@ permalink: /licenses
 weight: 3
 ---
 
-### Licenses & Certifications
+<br/>
 
-Berikut daftar sertifikasi yang telah diambil:
+#### Licenses & Certifications
 
-#### AI
+##### Artificial Intelligence
 
 {% include train.html category="certai" %}
 
-#### Geophysics
+##### Geophysics
 
 {% include train.html category="cergeo" %}
 
-#### General
+##### General
 
 {% include train.html category="cergen" %}
