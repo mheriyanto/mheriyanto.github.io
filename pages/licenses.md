@@ -7,7 +7,7 @@ weight: 2
 
 <br/>
 
-#### Licenses & Certifications
+<h2 class="text-center mt-5"><i class="fa-regular fa-file-certificate"></i> Licenses & Certifications</h2>
 
 ##### Artificial Intelligence
 

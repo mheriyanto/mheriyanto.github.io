@@ -7,20 +7,20 @@ weight: 3
 
 <br/>
 
-#### A. Coding Courses
+<h2 class="text-center mt-5"><i class="fa-solid fa-code"></i> Coding Courses</h2>
 
-##### A.1. Artificial Intelligence
+##### Artificial Intelligence
 
 {% include train.html category="codai" %}
 
-##### A.2. Geophysics
+##### Geophysics
 
 {% include train.html category="codge" %}
 
-#### B. General
+<h2 class="text-center mt-5"> General</h2>
 
 {% include train.html category="leadership" %}
 
-#### C. Seminars
+<h2 class="text-center mt-5"> Seminars</h2>
 
 {% include train.html category="semai" %}
