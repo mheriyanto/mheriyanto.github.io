@@ -7,20 +7,20 @@ weight: 2
 
 <br/>
 
-#### Coding Course
+#### A. Coding Courses
 
-##### Artificial Intelligence
+##### A.1. Artificial Intelligence
 
 {% include train.html category="codai" %}
 
-##### Geophysics
+##### A.2. Geophysics
 
 {% include train.html category="codge" %}
 
-#### General
+#### B. General
 
 {% include train.html category="leadership" %}
 
-#### Seminars
+#### C. Seminars
 
 {% include train.html category="semai" %}
