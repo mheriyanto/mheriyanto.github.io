@@ -1,0 +1,21 @@
+<div class="wow animated fadeIn" data-wow-delay=".15s">
+  <a href="{{ product_url }}" class="product card text-themed" {%- if external and site.open_new_tab -%} target="_blank" {%- endif -%}>
+    {%- if product_img -%}
+    <img id="{{ product_id }}-img" class="card-img-top" src="{{ product_img }}" alt="{{ product_name }}" />
+    {%- endif -%}
+    <div class="card-body">
+      <h5 id="{{ product_id }}-name" class="card-title">
+          {%- if product_type == "remote" -%}
+          <i class="fab fa-github" data-toggle="tooltip" data-placement="bottom" data-delay="250" title="GitHub Repository"></i> |&nbsp;
+          {%- endif -%}
+        {{ product_name }}
+      </h5>
+      <p id="{{ product_id }}-desc" class="card-text">{{ product_desc }}</p>
+      <p id="{{ product_id }}-tools" class="card-text">
+        {%- for tool in product_tools -%}
+        <span class="badge badge-pill text-primary border border-primary ml-1">{{ tool }}</span>
+        {%- endfor -%}
+      </p>
+    </div>
+  </a>
+</div>

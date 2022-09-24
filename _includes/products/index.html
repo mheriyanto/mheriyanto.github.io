@@ -1,0 +1,59 @@
+
+<div class="card-columns m-3 mt-5">
+
+  <!-- Remote Products -->
+  {% for remote_products in page.remote_productss %}
+
+    {%- for repo in site.github.public_repositories -%}
+
+      {%- if remote_products == repo.name -%}
+
+        {%- assign products = repo -%}
+        {%- assign words = products.name | split: '-' -%}
+        
+        {%- capture titlecase -%}
+          {%- for word in words -%}
+            {{ word | capitalize | append: ' ' }}
+          {%- endfor -%}
+        {%- endcapture -%}
+
+        {%- assign products_type  = "remote" -%}
+        {%- assign products_id    = products.name -%}
+        {%- assign products_img   = false -%}
+        {%- assign products_name  = titlecase | strip -%}
+        {%- assign products_desc  = products.description -%}
+        {%- assign products_url   = products.html_url -%}
+        {%- assign products_tools = products.topics -%}
+        {%- assign external      = true -%}
+
+        {% include products/product-card.html %}
+
+      {%- endif -%}
+
+    {%- endfor -%}
+
+  {% endfor %}
+
+  <!-- Local Products -->
+  {% for products in site.products %}
+
+    {%- assign products_type  = "local" -%}
+    {%- assign products_id    = products.name | slugify -%}
+    {%- assign products_img   = products.image -%}
+    {%- assign products_name  = products.name -%}
+    {%- assign products_desc  = products.description -%}
+    {%- assign products_tools = products.tools -%}
+
+    {%- if products.external_url -%}
+      {%- assign products_url = products.external_url -%}
+      {%- assign external    = true -%}
+    {%- else -%}
+      {%- assign products_url = products.url | relative_url -%}
+      {%- assign external    = false -%}
+    {%- endif -%}
+
+    {% include products/product-card.html %}
+
+  {% endfor %}
+
+</div>

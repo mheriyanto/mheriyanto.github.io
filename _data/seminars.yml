@@ -1,0 +1,73 @@
+# - title: {{ title }}
+#   mooc: {{ mooc: Coursera, edX, Udemy, Linux, ... }}
+#   url: {{ url }}
+#   category:
+#     - {{ mooc }}
+#     - {{ category ...}}
+#   author: {{ author/campus }}
+#   from: {{ YYYY-MM-DD | empty}}
+#   to: {{ YYYY-MM-DD | 8888-01-01 (hold) | 9999-01-01 (current) | 0000-01-01 (ignored/skip) }}
+#   grade: {{ grade % }}
+#   certificate_url: {{ certificate url }}
+#   note: {{ note }}
+#   status: {{ nill enrolled | hold | ignore }}
+
+- title: "Demystifying Kubeflow pipelines: from tensorflow notebook to pipeline"
+  mooc: brighttalk
+  url: https://www.brighttalk.com/webcast/6793/424551
+  category:
+    - semai
+  author: Canonical & Manceps
+  from: 2022-04-04
+  to: 2022-04-04
+  grade: 
+  certificate_url: https://drive.google.com/file/d/1LDXxSGG5EPxxnfXEUsXSEnAUQcj4pZIF/view?usp=sharing
+  note:
+
+- title: "Production AI from data lake to server: Solving HW challenges in ML environments"
+  mooc: brighttalk
+  url: https://www.brighttalk.com/webcast/6793/427925
+  category:
+    - semai
+  author: Canonical
+  from: 2022-04-02
+  to: 2022-04-02
+  grade: 
+  certificate_url: https://drive.google.com/file/d/1FpeQvq5BlKAJFGutSFUbDtkxvmFMpVlh/view?usp=sharing
+  note:
+
+- title: "AI deployment and inference: reliable infrastructure and streamlined operations"
+  mooc: brighttalk
+  url: https://www.brighttalk.com/webcast/6793/451777
+  category:
+    - semai
+  author: Canonical
+  from: 2022-04-04
+  to: 2022-04-04
+  grade: 
+  certificate_url: https://drive.google.com/file/d/1UT089-rtaQ6qj_HNeSlZ2Ss0ajJ7UHAH/view?usp=sharing
+  note:
+
+- title: "Intro to MLOps with GitLab DevOps Platform Demo"
+  mooc: brighttalk
+  url: http://www.brighttalk.com/webcast/17523/519787
+  category:
+    - semai
+  author: GitLab
+  from: 2022-04-04
+  to: 2022-04-04
+  grade: 
+  certificate_url: https://drive.google.com/file/d/1URv_588-O-jw5fm4D71VeO0WTfmeOT-e/view?usp=sharing
+  note:
+
+- title: "Introduction to MLOps: Six proven techniques to amplify AI maturity"
+  mooc: brighttalk
+  url: http://www.brighttalk.com/webcast/6793/536837
+  category:
+    - semai
+  author: Canonical
+  from: 2022-04-15
+  to: 2022-04-15
+  grade: 
+  certificate_url: https://drive.google.com/file/d/1eA_wgp-ctveRwPUtxdFJxmqrMUeIMV4x/view?usp=sharing
+  note:
