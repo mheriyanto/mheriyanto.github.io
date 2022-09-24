@@ -6,7 +6,7 @@ weight: 1
 ---
 
 <h2 class="text-center"><i class="fas fa-star"></i> products</h2>
-{% assign sorted = site.projects | where_exp: "item", "item.type == 'product'" | sort: "date" | reverse %}
+{% assign sorted = site.projects | where_exp: "item", "item.type == 'org'" | sort: "date" | reverse %}
 {% include projects/index.html %}
 
 <h2 class="text-center"><i class="fas fa-code"></i> coding projects</h2>
