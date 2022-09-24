@@ -26,7 +26,7 @@
     - machine-learning
     - pytorch
     - code
-  author: Kaggle & aws
+  author: Kaggle & AWS
   from: 2022-09-23
   to: 9999-01-01
   grade: 
@@ -65,7 +65,7 @@
   to: 9999-01-01
   grade: 
   certificate_url: 
-  note: 
+  note: Courses taught by Vijay Janapa Reddi
 
 - title: "Applied Tiny Machine Learning (TinyML) for Scale"
   mooc: edX
@@ -83,7 +83,7 @@
   to: 9999-01-01
   grade: 
   certificate_url: 
-  note: 
+  note: Courses taught by Vijay Janapa Reddi
 
 ## CERTIFICATIONS: GEOPHYSICS
 
@@ -93,26 +93,12 @@
   category:
     - cergeo
     - geothermal
-  author: ITB International Geothermal Workshop
-  from: 2015-06-01
-  to: 2015-06-06
+  author: Magister Program in Geothermal Technology, ITB
+  from: 2015-06-08
+  to: 2015-06-12
   grade: 
   certificate_url: https://drive.google.com/file/d/1pqzitXsXcVYYcKf1qqXySZYBRcmKdeJh/view?usp=sharing
-  note: 
-
-- title: "IRIS Syscal Pro - 48 Channel automatic Geoelectrical Instrument"
-  mooc: PT Jatific
-  url: https://www.jatific.com/product/syscal-pro/
-  category:
-    - cergeo
-    - instrumentation
-    - resistivity
-  author: PT Jatific
-  from: 2018-01-01
-  to: 2018-01-02
-  grade: 
-  certificate_url: 
-  note: 
+  note: "Location: Bandung"
 
 - title: "Geometrics PPM Magnetometers equipped with Gradiometry sensor"
   mooc: PT EGS Indonesia
@@ -121,26 +107,40 @@
     - cergeo
     - instrumentation
     - magnetics
-  author: PT EGS Indonesia
-  from: 2018-01-01
-  to: 2018-01-03
+  author: Universitas Pertamina
+  from: 2018-01-27
+  to: 2018-01-27
   grade: 
   certificate_url: 
-  note: 
+  note: "Location: South Jakarta | Instructors: Adhitya and Irsandi Agustomo"
+
+- title: "IRIS Syscal Pro - 48 Channel automatic Geoelectrical Instrument"
+  mooc: PT Jatific
+  url: https://www.jatific.com/product/syscal-pro/
+  category:
+    - cergeo
+    - instrumentation
+    - resistivity
+  author: Universitas Pertamina
+  from: 2018-01-31
+  to: 2018-01-31
+  grade: 
+  certificate_url: 
+  note: "Location: South Jakarta | Instructors: Earth Physics ITB"
 
 - title: "GPR MALA Easy Locator Pro WideRange HDR"
-  mooc: PT EXACT GLOBAL TEKNOLOGI
+  mooc: PT Exact Global Teknologi
   url: https://www.exactglobal.co.id/mala-easy-locator-pro-widerange-hdr-new/
   category:
     - cergeo
     - instrumentation
     - gpr
-  author: PT EXACT GLOBAL TEKNOLOGI
-  from: 2018-12-01
-  to: 2018-12-03
+  author: Universitas Pertamina
+  from: 2018-11-14
+  to: 2018-11-15
   grade: 
   certificate_url: 
-  note: 
+  note: "Location: South Jakarta | Instructor: Muhammad Mustaqim"
 
 ## CERTIFICATIONS: GENERAL
 
@@ -170,11 +170,11 @@
     - machine-learning
     - codai
   author: DeepLearning.AI & Standford University
-  from: 2022-08-01
+  from: 2022-08-15
   to: 9999-01-01
   grade: 
   certificate_url: 
-  note: 
+  note: Part of AI visionary Andrew Ng
 
 - title: "Deep Learning Specialization"
   mooc: Coursera
@@ -185,11 +185,11 @@
     - deep-learning
     - codai
   author: DeepLearning.AI
-  from: 2022-08-01
+  from: 2022-08-15
   to: 9999-01-01
   grade: 
   certificate_url: 
-  note: 
+  note: Part of AI visionary Andrew Ng
 
 - title: "Machine Learning Engineering for Production (MLOps) Specialization"
   mooc: Coursera
@@ -200,11 +200,11 @@
     - mlops
     - codai
   author: DeepLearning.AI
-  from: 2022-08-01
+  from: 2022-08-15
   to: 9999-01-01
   grade: 
   certificate_url: 
-  note: 
+  note: Part of AI visionary Andrew Ng
 
 ## edX
 
@@ -222,7 +222,7 @@
   to: 9999-01-01
   grade: 
   certificate_url: 
-  note:
+  note: Courses taught by Vijay Janapa Reddi
 
 - title: "Applications of TinyML"
   mooc: edX
@@ -238,7 +238,7 @@
   to: 9999-01-01
   grade: 
   certificate_url: 
-  note:
+  note: Courses taught by Vijay Janapa Reddi
 
 - title: "Deploying TinyML"
   mooc: edX
@@ -254,7 +254,7 @@
   to: 9999-01-01
   grade: 
   certificate_url: 
-  note:
+  note: Courses taught by Vijay Janapa Reddi
 
 - title: "MLOps for Scaling TinyML"
   mooc: edX
@@ -271,7 +271,7 @@
   to: 9999-01-01
   grade: 
   certificate_url: 
-  note:
+  note: Courses taught by Vijay Janapa Reddi
 
 ## Udemy
 
@@ -295,37 +295,37 @@
 ## GEOPHYSICS
 
 - title: "CGG GeoSoftware: iRocks-CGG Rock Physics Education Series"
-  mooc: CGG
+  mooc: Offline, Jakarta
   url: https://www.cgg.com/resources/media-events/training/rock-physics-seismic-interpretation-and-analysis-course
   category:
     - geophysics
     - seismic
     - codge
   author: CGG
-  from: 2019-02-01
-  to: 2020-02-01
+  from: 2019-02-14
+  to: 2019-08-07
   grade: 
   certificate_url: 
-  note: 
+  note: "Instructor: Akash Mathur"
 
 - title: "Electrical Impedance Tomography: Computational on Forward and Inverse Problem"
-  mooc: IF-ITB
+  mooc: ITB
   url: https://fti.itb.ac.id/the-4th-international-conference-on-instrumentation-control-and-automation-2016-ica-2016/
   category:
     - geophysics
     - resistivity
     - codge
-  author: IF-ITB
+  author: Teknik Informatika-ITB
   from: 2016-08-29
   to: 2016-08-29
   grade: 
   certificate_url: https://drive.google.com/file/d/1IR7uEzDwUKesZscvqU6qu1bpXy1Le3Uu/view?usp=sharing
-  note: 
+  note:
 
 ## GENERAL
 
 - title: "Leadership Through Action"
-  mooc: PT Bank Central Asia Tbk
+  mooc: ITB
   url: https://jabar.tribunnews.com/2014/09/20/bca-gelar-seminarleadershipthrough-action
   category:
     - leadership
