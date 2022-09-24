@@ -1,5 +1,5 @@
 ---
-name: nusantara muslim scholars (nms)
+name: nusantara muslim scholars
 tools: [product, indexing, publications, scholars]
 image: assets/logos/nms.png
 description: indexing Indonesia Muslim scientists & their works.
