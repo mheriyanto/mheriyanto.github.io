@@ -1,0 +1,14 @@
+- name: python
+  level: 3
+  color: danger
+
+- name: matlab
+  level: 1
+  color: 
+
+- name: c++
+  level: 1
+  color:
+
+- name: c
+  level: 1
