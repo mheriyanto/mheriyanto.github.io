@@ -5,6 +5,10 @@ permalink: /projects
 weight: 1
 ---
 
-<h2 class="text-center"><i class="fas fa-code"></i> projects</h2>
-{% assign sorted = site.projects | where_exp: "item", "item.type == 'coding'" | sort: "date" | reverse %}
+<h2 class="text-center"><i class="fas fa-star"></i> products</h2>
+{% assign sorted = site.projects | where_exp: "item", "item.type == 'product'" | sort: "date" | reverse %}
 {% include projects/index.html %}
+
+<h2 class="text-center"><i class="fas fa-code"></i> coding projects</h2>
+
+{% include coding.html category="coding" %}
