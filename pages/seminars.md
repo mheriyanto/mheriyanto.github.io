@@ -8,4 +8,4 @@ permalink: /seminars
 
 {% include seminar.html category="semai" %}
 
-
+<p style="margin-left:10%;"><a href="https://mheriyanto.wordpress.com/#seminars"><b>seminar more...</b></a></p>

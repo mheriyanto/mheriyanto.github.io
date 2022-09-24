@@ -5,7 +5,7 @@ permalink: /projects
 weight: 1
 ---
 
-<h2 class="text-center"><i class="fas fa-star"></i> products</h2>
+<h2 class="text-center"><i class="fas fa-star"></i> organizations</h2>
 {% assign sorted = site.projects | where_exp: "item", "item.type == 'org'" | sort: "date" | reverse %}
 {% include projects/index.html %}
 
