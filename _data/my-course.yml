@@ -95,9 +95,9 @@
     - geothermal
   author: ITB International Geothermal Workshop
   from: 2015-06-01
-  to: 9999-01-01
+  to: 2015-06-06
   grade: 
-  certificate_url: 
+  certificate_url: https://drive.google.com/file/d/1pqzitXsXcVYYcKf1qqXySZYBRcmKdeJh/view?usp=sharing
   note: 
 
 - title: "IRIS Syscal Pro - 48 Channel automatic Geoelectrical Instrument"
@@ -109,7 +109,7 @@
     - resistivity
   author: PT Jatific
   from: 2018-01-01
-  to: 9999-01-01
+  to: 2018-01-02
   grade: 
   certificate_url: 
   note: 
@@ -123,7 +123,7 @@
     - magnetics
   author: PT EGS Indonesia
   from: 2018-01-01
-  to: 9999-01-01
+  to: 2018-01-03
   grade: 
   certificate_url: 
   note: 
@@ -137,7 +137,7 @@
     - gpr
   author: PT EXACT GLOBAL TEKNOLOGI
   from: 2018-12-01
-  to: 9999-01-01
+  to: 2018-12-03
   grade: 
   certificate_url: 
   note: 
@@ -146,19 +146,18 @@
 
 - title: "Stephen R. Covey's Seven Habits of Highly Effective College Students"
   mooc: FranklinCovey
-  url: https://www.linkedin.com/company/franklincovey/
+  url: https://www.franklincovey.com/solutions/education/higher-education/7habitscollege/
   category:
-    - edx
     - cergen
     - leadership
   author: FranklinCovey
   from: 2012-08-01
-  to: 9999-01-01
-  grade: 
+  to: 2012-08-07
+  grade: 100.00%
   certificate_url: 
-  note: 
+  note: A life-changing student success course based on timeless principles of personal effectiveness.
 
-## ========== MOOC ==========
+## ========== COURSES ==========
 
 ## COURSERA
 
@@ -318,9 +317,9 @@
     - codge
   author: IF-ITB
   from: 2016-08-29
-  to: 9999-01-01
+  to: 2016-08-29
   grade: 
-  certificate_url: 
+  certificate_url: https://drive.google.com/file/d/1IR7uEzDwUKesZscvqU6qu1bpXy1Le3Uu/view?usp=sharing
   note: 
 
 ## GENERAL
@@ -334,7 +333,7 @@
   from: 2014-09-01
   to: 2015-09-01
   grade: 
-  certificate_url: 
+  certificate_url: https://drive.google.com/file/d/14yOq-K4hg5OxRrxTfdLLderGhHVmEzM6/view?usp=sharing
   note: 
 
 
@@ -349,7 +348,7 @@
   from: 2022-04-04
   to: 2022-04-04
   grade: 
-  certificate_url: 
+  certificate_url: https://drive.google.com/file/d/1LDXxSGG5EPxxnfXEUsXSEnAUQcj4pZIF/view?usp=sharing
   note:
 
 - title: "Production AI from data lake to server: Solving HW challenges in ML environments"
@@ -361,7 +360,7 @@
   from: 2022-04-02
   to: 2022-04-02
   grade: 
-  certificate_url: 
+  certificate_url: https://drive.google.com/file/d/1FpeQvq5BlKAJFGutSFUbDtkxvmFMpVlh/view?usp=sharing
   note:
 
 - title: "AI deployment and inference: reliable infrastructure and streamlined operations"
@@ -373,7 +372,7 @@
   from: 2022-04-04
   to: 2022-04-04
   grade: 
-  certificate_url: 
+  certificate_url: https://drive.google.com/file/d/1UT089-rtaQ6qj_HNeSlZ2Ss0ajJ7UHAH/view?usp=sharing
   note:
 
 - title: "Intro to MLOps with GitLab DevOps Platform Demo"
@@ -385,7 +384,7 @@
   from: 2022-04-04
   to: 2022-04-04
   grade: 
-  certificate_url: 
+  certificate_url: https://drive.google.com/file/d/1URv_588-O-jw5fm4D71VeO0WTfmeOT-e/view?usp=sharing
   note:
 
 - title: "Introduction to MLOps: Six proven techniques to amplify AI maturity"
@@ -397,5 +396,5 @@
   from: 2022-04-15
   to: 2022-04-15
   grade: 
-  certificate_url: 
+  certificate_url: https://drive.google.com/file/d/1eA_wgp-ctveRwPUtxdFJxmqrMUeIMV4x/view?usp=sharing
   note:
