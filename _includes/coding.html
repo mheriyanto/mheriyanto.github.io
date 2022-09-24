@@ -4,7 +4,7 @@
         {% for project in sorted %}
         {% if project.tools contains include.category %}
         {% case include.category %}
-        {% when "coding" %}
+        {% when "code" %}
         {% assign class_project = "fas fa-laptop-code"%}
         {% when "product" %}
         {% assign class_project = "fas fa-star"%}
