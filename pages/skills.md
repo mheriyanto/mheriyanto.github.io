@@ -5,7 +5,7 @@ permalink: skills
 weight: 4
 ---
 
-<h4 class="text-center"><i class="fas fa-code"></i> Coding Skills</h5>
+<h4 class="text-center"><i class="fas fa-code"></i> Coding Skills</h4>
 
 <div class="row">
 {% include skills.html title="Programming Skills" source=site.data.skills %}
