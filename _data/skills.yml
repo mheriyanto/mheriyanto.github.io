@@ -1,14 +1,15 @@
 - name: python
-  level: 3
-  color: danger
+  level: 80
+  color: secondary
 
 - name: matlab
-  level: 1
-  color: 
+  level: 90
+  color: success
 
 - name: c++
-  level: 1
-  color:
+  level: 70
+  color: danger
 
 - name: c
-  level: 1
+  level: 60
+  color: warning
