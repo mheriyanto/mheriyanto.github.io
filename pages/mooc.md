@@ -2,7 +2,6 @@
 layout: page
 title: mooc
 permalink: /mooc
-weight: 10
 ---
 
 # My Course Experiences

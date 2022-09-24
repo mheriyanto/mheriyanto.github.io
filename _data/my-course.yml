@@ -145,7 +145,7 @@
 ## CERTIFICATIONS: GENERAL
 
 - title: "Stephen R. Covey's Seven Habits of Highly Effective College Students"
-  mooc: FranklinCovey
+  mooc: ITB
   url: https://www.franklincovey.com/solutions/education/higher-education/7habitscollege/
   category:
     - cergen
@@ -295,7 +295,7 @@
 ## GEOPHYSICS
 
 - title: "CGG GeoSoftware: iRocks-CGG Rock Physics Education Series"
-  mooc: Offline, Jakarta
+  mooc: Universitas Pertamina
   url: https://www.cgg.com/resources/media-events/training/rock-physics-seismic-interpretation-and-analysis-course
   category:
     - geophysics
@@ -306,7 +306,7 @@
   to: 2019-08-07
   grade: 
   certificate_url: 
-  note: "Instructor: Akash Mathur"
+  note: "Location: Jakarta | Instructor: Akash Mathur"
 
 - title: "Electrical Impedance Tomography: Computational on Forward and Inverse Problem"
   mooc: ITB
