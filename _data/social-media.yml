@@ -21,6 +21,11 @@ email:
   icon  : fas fa-envelope
   color : db4437
 
+youtube:
+  url   : https://www.youtube.com/channel/
+  icon  : fab fa-youtube
+  color : ff0000
+
 twitter:
   url   : https://www.twitter.com/
   icon  : fab fa-twitter
