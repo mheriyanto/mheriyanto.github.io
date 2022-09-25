@@ -22,7 +22,6 @@ nav_exclude:                                            # The following paths ar
   - pages/products.html
   - pages/mooc.md
   - pages/seminars.md
-  - pages/skills.html
   - documentation/partials/**                           # For Documentation Only
 
 
