@@ -5,6 +5,7 @@ permalink: /
 
 {% include landing.html %}
 
-<script id="_wau7c2">var _wau = _wau || []; _wau.push(["colored", "4exzzrsbht", "7c2", "0a66c2ffffff"]);</script><script async src="//waust.at/co.js"></script>
-<a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=8042993&style=0002&nbdigits=5&type=page&initCount=0" title="counter" Alt="web-counter" border="0" /></a>   
+<!-- https://stackoverflow.com/a/19364951/12116520 -->
+<script id="_wau7c2"\>var _wau = _wau || []; _wau.push(["colored", "4exzzrsbht", "7c2", "0a66c2ffffff"]);</script\><script async src="//waust.at/co.js"\></script\>
+<a align="center" href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=8042993&style=0002&nbdigits=5&type=page&initCount=0" title="counter" Alt="web-counter" border="0" /></a>
