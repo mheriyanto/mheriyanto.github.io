@@ -4,7 +4,7 @@ title: seminars
 permalink: /seminars
 ---
 
-<h4 class="text-center"><i class="fas fa-book"></i> Seminars | <a href="https://mheriyanto.wordpress.com/#seminars">[wpress]</a></h4>
+<h4 class="text-center"><i class="fas fa-book"></i> Seminars | <a href="https://mheriyanto.wordpress.com/#seminars">[<i class="fab fa-wordpress"></i>]</a></h4>
 
 {% include seminar.html category="semai" %}
 
