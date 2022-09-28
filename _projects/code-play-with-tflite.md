@@ -1,5 +1,5 @@
 ---
-name: Geo WebApps
+name: play-with-tflite
 tools: [code, geophysics, inversion, python]
 image: assets/product_images/none.png
 description: implementation of raspberry pi & tensorflow lite python to play AI apps (vehicle analytics).
