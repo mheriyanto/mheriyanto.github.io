@@ -1,5 +1,5 @@
 ---
-name: mheriyanto.github.io
+name: mheriyanto.dev
 tools: [code, website, jekyll]
 image: assets/project_images/mheriyanto.dev.png
 description: 🌐 portfolio website
