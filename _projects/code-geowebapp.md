@@ -4,6 +4,6 @@ tools: [geophysics, inversion, python, past]
 image: assets/project_images/mheriyanto.dev.png
 description: 🌏 web-based geophysical inversion application
 external_url: https://gmi-mh.herokuapp.com
-date: 2022-09-12
+date: 2019-01-01
 type: past
 ---
