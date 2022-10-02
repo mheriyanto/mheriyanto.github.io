@@ -33,23 +33,6 @@
   certificate_url: 
   note: 
 
-- title: "PyTorch and Deep Learning for Decision Makers (LFS116x)"
-  mooc: Linux
-  url: https://training.linuxfoundation.org/training/pytorch-and-deep-learning-for-decision-makers-lfs116x/
-  category:
-    - linux
-    - cerai
-    - ai
-    - deep-learning
-    - pytorch
-    - code
-  author: Linux
-  from: 2022-09-23
-  to: 9999-01-01
-  grade: 
-  certificate_url: 
-  note: 
-
 - title: "Tiny Machine Learning (TinyML)"
   mooc: edX
   url: https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning
@@ -59,24 +42,6 @@
     - ai
     - machine-learning
     - tinyml
-    - code
-  author: Harvard University & Google
-  from: 2022-09-23
-  to: 9999-01-01
-  grade: 
-  certificate_url: 
-  note: Courses taught by Vijay Janapa Reddi
-
-- title: "Applied Tiny Machine Learning (TinyML) for Scale"
-  mooc: edX
-  url: https://www.edx.org/professional-certificate/harvardx-applied-tiny-machine-learning-tinyml-for-scale?index=undefined
-  category:
-    - edx
-    - cerai
-    - ai
-    - machine-learning
-    - tinyml
-    - mlops
     - code
   author: Harvard University & Google
   from: 2022-09-23
@@ -176,36 +141,6 @@
   certificate_url: 
   note: Part of AI visionary Andrew Ng
 
-- title: "Deep Learning Specialization"
-  mooc: Coursera
-  url: https://www.coursera.org/specializations/deep-learning
-  category:
-    - coursera
-    - ai
-    - deep-learning
-    - codai
-  author: DeepLearning.AI
-  from: 2022-08-15
-  to: 9999-01-01
-  grade: 
-  certificate_url: 
-  note: Part of AI visionary Andrew Ng
-
-- title: "Machine Learning Engineering for Production (MLOps) Specialization"
-  mooc: Coursera
-  url: https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops
-  category:
-    - coursera
-    - ai
-    - mlops
-    - codai
-  author: DeepLearning.AI
-  from: 2022-08-15
-  to: 9999-01-01
-  grade: 
-  certificate_url: 
-  note: Part of AI visionary Andrew Ng
-
 ## edX
 
 - title: "Fundamentals of TinyML"
@@ -224,71 +159,7 @@
   certificate_url: 
   note: Courses taught by Vijay Janapa Reddi
 
-- title: "Applications of TinyML"
-  mooc: edX
-  url: https://www.edx.org/course/applications-of-tinyml
-  category:
-    - edx
-    - ai
-    - tinyml
-    - machine-learning
-    - codai
-  author: Harvard University & Google
-  from: 2022-09-23
-  to: 9999-01-01
-  grade: 
-  certificate_url: 
-  note: Courses taught by Vijay Janapa Reddi
-
-- title: "Deploying TinyML"
-  mooc: edX
-  url: https://www.edx.org/course/deploying-tinyml
-  category:
-    - edx
-    - ai
-    - tinyml
-    - machine-learning
-    - codai
-  author: Harvard University & Google
-  from: 2022-09-23
-  to: 9999-01-01
-  grade: 
-  certificate_url: 
-  note: Courses taught by Vijay Janapa Reddi
-
-- title: "MLOps for Scaling TinyML"
-  mooc: edX
-  url: https://www.edx.org/course/mlops-for-scaling-tinyml
-  category:
-    - edx
-    - ai
-    - tinyml
-    - machine-learning
-    - mlops
-    - codai
-  author: Harvard University & Google
-  from: 2022-09-23
-  to: 9999-01-01
-  grade: 
-  certificate_url: 
-  note: Courses taught by Vijay Janapa Reddi
-
 ## Udemy
-
-- title: "Clean Machine Learning Code"
-  mooc: Udemy
-  url: https://www.udemy.com/course/clean-machine-learning-code
-  category:
-    - udemy
-    - machine-learning
-    - codai
-  author: "Moussa Taifi"
-  from: 2022-09-23
-  to: 9999-01-01
-  grade:
-  certificate_url: 
-  note:
-
 
 ## Linux
 
