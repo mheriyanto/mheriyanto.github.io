@@ -9,7 +9,7 @@ weight: 1
 {% assign sorted = site.projects | where_exp: "item", "item.type == 'org'" | sort: "date" | reverse %}
 {% include projects/index.html %}
 
-<h2 class="text-center"><i class="fas fa-code"></i> coding projects</h2>
+<h2 class="text-center"><i class="fas fa-code"></i> coding projects <a href="https://github.com/mheriyanto?tab=projects">[<i class="fab fa-github"></i>]</a></h2>
 {% assign sorted = site.projects | where_exp: "item", "item.type == 'code'" | sort: "date" | reverse %}
 {% include projects/index.html %}
 
