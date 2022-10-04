@@ -1,0 +1,46 @@
+---
+layout: page
+title: test
+permalink: /test
+---
+
+<div class="row justify-content-center align-items-center p-4">
+    <div class="col-lg-4 col-md-6 text-center mt-4">
+        <!-- Fine Circle Responsive Image -->
+        <div id="container" class="my-2">
+            <div id="dummy"></div>
+            <div id="element">
+                <img src="{{ site.author.image }}" alt="{{ site.title }}" class="circle-image wow animated zoomIn" style="width:300px;height:300px;"
+                    data-wow-delay=".1s">
+            </div>
+        </div>
+        {% include elements/mov_text.html %}
+        <p class="text-muted wow animated slideInUp" data-wow-delay=".15s">{{ site.description }}</p>
+        <p class="text-center wow animated slideInUp" data-wow-delay=".15s">
+            {% include elements/button.html link="https://mheriyanto.wordpress.com" text="primary" size="lg" style="primary" %}
+            {% include elements/button.html link="https://mheriyanto.wordpress.com" text="secondary" size="lg" style="secondary" %}
+            {% include elements/button.html link="https://mheriyanto.wordpress.com" text="success" size="lg" style="success" %}
+            {% include elements/button.html link="https://mheriyanto.wordpress.com" text="danger" size="lg" style="danger" %}
+            {% include elements/button.html link="https://mheriyanto.wordpress.com" text="warning" size="lg" style="warning" %}
+            {% include elements/button.html link="https://mheriyanto.wordpress.com" text="info" size="lg" style="info" %}
+            {% include elements/button.html link="https://mheriyanto.wordpress.com" text="light" size="lg" style="light" %}
+            {% include elements/button.html link="https://mheriyanto.wordpress.com" text="dark" size="lg" style="dark" %}
+        </p>
+        <p align="center">
+            <code><a href="https://mheriyanto.wordpress.com" target="_blank"><img title="wordpress" height="45" width="45" src="assets/icons/wordpress.png"></a></code>
+            <code><a href="https://linkedin.com/in/mheriyanto" target="_blank"><img title="linkedin" height="45" width="45" src="assets/icons/linkedin.png"></a></code>
+            <code><a href="https://github.com/mheriyanto" target="_blank"><img title="github" height="45" width="45" src="assets/icons/github.png"></a></code>
+            <code><a href="https://orcid.org/0000-0003-2182-2866" target="_blank"><img title="orcid" height="45" width="45" src="assets/icons/orcid.png"></a></code>
+            <code><a href="https://www.scopus.com/authid/detail.uri?authorId=56770002500" target="_blank"><img title="scopus" height="45" width="45" src="assets/icons/scopus.png"></a></code>
+            <code><a href="https://emha-ai.github.io" target="_blank"><img title="freelance" height="45" width="45" src="assets/icons/upwork.png"></a></code>
+        </p>
+
+        <p align="center">
+            <!-- https://stackoverflow.com/a/19364951/12116520 -->
+            <!-- <script id="_wau7c2">var _wau = _wau || []; _wau.push(["colored", "4exzzrsbht", "7c2", "0a66c2ffffff"]);</script><script async src="//waust.at/co.js"></script> -->
+            <a href="https://www.hitwebcounter.com" target="_blank">
+                <img src="https://hitwebcounter.com/counter/counter.php?page=8042998&style=0006&nbdigits=5&type=page&initCount=0" title="visitor" Alt="web counter" border="0" />
+            </a>
+        </p>
+    </div>
+</div>
