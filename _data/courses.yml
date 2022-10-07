@@ -170,14 +170,13 @@
     - html
     - css
     - javascript
-    - code
+    - program
   author: Victor Bastos
   from: 2019-06-01
   to: 8888-01-01
   grade: 
   certificate_url: 
   note: "Lectures: 190 | Video: 26.5 total hours | FrontEnd Development: JavaScript, jQuery, HTML5, CSS3, Bootstrap | BackEnd Development: PHP, MySQL (MySQL)"
-  status: hold
 
 ## Linux
 
