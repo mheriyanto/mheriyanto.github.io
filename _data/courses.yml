@@ -178,7 +178,35 @@
   certificate_url: 
   note: "Lectures: 190 | Video: 26.5 total hours | FrontEnd Development: JavaScript, jQuery, HTML5, CSS3, Bootstrap | BackEnd Development: PHP, MySQL (MySQL)"
 
+- title: "Deploying machine learning models with flask for beginners"
+  mooc: Udemy
+  url: https://www.udemy.com/course/deploying-machine-learning-models-with-flask-for-beginners/
+  category:
+    - udemy
+    - ai
+    - machine-learning
+    - codai
+  author: Dan We
+  from: 2022-10-11
+  to: 2022-10-12
+  grade: 
+  certificate_url: https://www.udemy.com/certificate/UC-469f4004-b72e-4613-8e4e-dae3ba5ac865/
+  note: "2 sections | 18 lectures | 2h 31m total length"
+
 ## Linux
+
+- title: "Introduction to Linux (LFS101x)"
+  mooc: Linux
+  url: https://training.linuxfoundation.org/training/introduction-to-linux/
+  category:
+    - linux
+    - code
+  author: Linux
+  from: 2022-10-12
+  to: 9999-01-01
+  grade: 
+  certificate_url: 
+  note: 
 
 ## GEOPHYSICS
 
