@@ -4,11 +4,11 @@ title: mooc
 permalink: /mooc
 ---
 
-#### In-progress Courses
+#### 🧑‍💻 In-progress Courses
 
 {% include training.html category="in-progress" %}
 
-#### My Course Experiences
+#### 📖 My Course Experiences
 
 ##### Coursera
 
@@ -22,8 +22,6 @@ permalink: /mooc
 
 {% include training.html category="udemy" %}
 
-##### Linux
+##### Linux Foundation
 
 {% include training.html category="linux" %}
-
-
