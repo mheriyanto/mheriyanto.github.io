@@ -26,6 +26,7 @@
     - machine-learning
     - pytorch
     - code
+    - in-progress
   author: Kaggle & AWS
   from: 2022-09-23
   to: 9999-01-01
@@ -152,6 +153,7 @@
     - tinyml
     - machine-learning
     - codai
+    - in-progress
   author: Harvard University & Google
   from: 2022-09-23
   to: 9999-01-01
@@ -217,7 +219,8 @@
     - linux
     - code
     - program
-  author: Linux
+    - in-progress
+  author: Linus Torvalds
   from: 2022-10-12
   to: 9999-01-01
   grade: 

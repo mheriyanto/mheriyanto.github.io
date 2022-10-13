@@ -4,21 +4,25 @@ title: mooc
 permalink: /mooc
 ---
 
-# My Course Experiences
+#### In-progress Courses
 
-## Coursera
+{% include training.html category="in-progress" %}
+
+#### My Course Experiences
+
+##### Coursera
 
 {% include training.html category="coursera" %}
 
-## edX
+##### edX
 
 {% include training.html category="edx" %}
 
-## Udemy
+##### Udemy
 
 {% include training.html category="udemy" %}
 
-## Linux
+##### Linux
 
 {% include training.html category="linux" %}
 
