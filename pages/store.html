@@ -5,5 +5,5 @@ permalink: /store
 ---
 
 <h2 class="text-center"><i class="fas fa-book"></i> books</h2>
-{% assign sorted = site.projects | where_exp: "item", "item.type == 'book'" | sort: "date" | reverse %}
-{% include projects/index.html %}
+{% assign sorted = site.products | where_exp: "item", "item.type == 'book'" | sort: "date" | reverse %}
+{% include products/index.html %}
