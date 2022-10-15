@@ -18,10 +18,14 @@ permalink: /mooc
 
 {% include training.html category="edx" %}
 
-##### Udemy
+##### Udacity
 
-{% include training.html category="udemy" %}
+{% include training.html category="udacity" %}
 
 ##### Linux Foundation
 
 {% include training.html category="linux" %}
+
+##### Udemy
+
+{% include training.html category="udemy" %}
