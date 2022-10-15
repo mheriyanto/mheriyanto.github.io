@@ -1,26 +1,3 @@
-
 <div class="card-columns m-3 mt-3">
-
-  <!-- Local Products -->
-  {% for products in site.products %}
-
-    {%- assign products_type  = "local" -%}
-    {%- assign products_id    = products.name | slugify -%}
-    {%- assign products_img   = products.image -%}
-    {%- assign products_name  = products.name -%}
-    {%- assign products_desc  = products.description -%}
-    {%- assign products_tools = products.tools -%}
-
-    {%- if products.external_url -%}
-      {%- assign products_url = products.external_url -%}
-      {%- assign external    = true -%}
-    {%- else -%}
-      {%- assign products_url = products.url | relative_url -%}
-      {%- assign external    = false -%}
-    {%- endif -%}
-
-    {% include products/product-card.html %}
-
-  {% endfor %}
 
 </div>
