@@ -29,3 +29,5 @@ permalink: /mooc
 ##### Udemy
 
 {% include training.html category="udemy" %}
+
+<span style="color:#993300;"><strong><br /> Last updated on October 24th, 2022.</strong></span>
