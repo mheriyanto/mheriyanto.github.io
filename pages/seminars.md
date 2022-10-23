@@ -8,4 +8,4 @@ permalink: /seminars
 
 {% include seminar.html category="semai" %}
 
-<span style="color:#993300;"><strong><br /> Last updated on October 24th, 2022.</strong></span>
+<span style="color:#993300;"><strong> Last updated on October 24th, 2022.</strong></span>
