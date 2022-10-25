@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : mheriyanto
 description         : >
-                      <p>AI Engineer (<a href="https://en.wikipedia.org/wiki/Computer_vision">Computer Vision</a>)<br>Geophysicist | <a href="https://careers.stateuniversity.com/pages/7794/Indexer.html">Indexer</a></p>
+                      <p>AI Engineer (<a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank">Computer Vision</a>)<br>Geophysicist | <a href="https://careers.stateuniversity.com/pages/7794/Indexer.html" target="_blank">Indexer</a></p>
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : mheriyanto/mheriyanto.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU@v2.3.0
