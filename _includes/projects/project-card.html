@@ -16,13 +16,13 @@
                 <span class="badge badge-pill text-primary border border-primary">{{ tool }}</span>
             {% endfor %}
             {% if project.web %}
-                <a style="text-align:center" href="{{ project_web }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-chrome"></i></a>
+                <code><a href="{{ project_web }}" target="_blank"><img title="web" src="assets/svg/chrome.svg"></a></code>
             {% endif %}
             {% if project.code %}
-                <a style="text-align:center" href="{{ project_code }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a>
+                <code><a href="{{ project_code }}" target="_blank"><img title="code" src="assets/svg/github.svg"></a></code>
             {% endif %}
             {% if project.paper %}
-                <a style="text-align:center" href="{{ project_paper }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i></a>
+                <code><a href="{{ project_paper }}" target="_blank"><img title="pdf" src="assets/svg/pdf.svg"></a></code>
             {% endif %}
         </p>
     </div>
