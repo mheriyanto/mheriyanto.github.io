@@ -15,14 +15,16 @@
             {% for tool in project_tools %}
                 <span class="badge badge-pill text-primary border border-primary">{{ tool }}</span>
             {% endfor %}
+        </p>
+        <p id="{{ project_id }}-links" class="card-text">
             {% if project.web %}
-                <code><a href="{{ project_web }}" target="_blank"><img title="web" src="assets/svg/chrome.svg"></a></code>
+                <a href="{{ project_web }}" target="_blank"><i class="fab fa-chrome"></i></a>
             {% endif %}
             {% if project.code %}
-                <code><a href="{{ project_code }}" target="_blank"><img title="code" src="assets/svg/github.svg"></a></code>
+                <a href="{{ project_code }}" target="_blank"><i class="fab fa-github"></i></a>
             {% endif %}
             {% if project.paper %}
-                <code><a href="{{ project_paper }}" target="_blank"><img title="pdf" src="assets/svg/pdf.svg"></a></code>
+                <a href="{{ project_paper }}" target="_blank"><i class="fas fa-file-pdf"></i></a>
             {% endif %}
         </p>
     </div>
