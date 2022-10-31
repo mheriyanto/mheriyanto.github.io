@@ -162,6 +162,19 @@
   note: Courses taught by Vijay Janapa Reddi
 
 ## Udemy
+- title: "Detecting Memory Leaks in C/C++ Applications"
+  mooc: Udemy
+  url: https://www.udemy.com/course/cpp_leaks
+  category:
+    - udemy
+    - cpp
+    - program
+  author: Umar Lone
+  from: 2022-10-31
+  to: 9999-01-01
+  grade: 
+  certificate_url: 
+  note: "Understand different kinds of problems associated with memory management. Effectively detect & isolate memory problems."
 
 - title: "Deploying machine learning models with flask for beginners"
   mooc: Udemy
