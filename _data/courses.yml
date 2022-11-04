@@ -51,6 +51,21 @@
   certificate_url: 
   note: Courses taught by Vijay Janapa Reddi
 
+## CERTIFICATIONS: PROGRAMMING
+
+- title: "Python (Basic)"
+  mooc:
+  url: https://www.hackerrank.com/skills-verification/python_basic
+  category:
+    - hackerrank
+    - cercod
+  author: HackerRank
+  from: 2022-11-04
+  to: 9999-01-01
+  grade: 
+  certificate_url: 
+  note: It covers topics like Scalar Types, Operators and Control Flow, Strings, Collections and Iteration, Modularity, Objects and Types and Classes.
+
 ## CERTIFICATIONS: GEOPHYSICS
 
 - title: "Training Introduction of Geothermal Power Plant Operationg System"
