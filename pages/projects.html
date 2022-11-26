@@ -5,28 +5,28 @@ permalink: /projects
 weight: 1
 ---
 
-<h2 class="text-center"><i class="fas fa-star fa-spin"></i> organizations</h2>
+<h2 class="text-center"><i class="fas fa-star"></i> organizations</h2>
 {% assign sorted = site.projects | where_exp: "item", "item.type == 'org'" | sort: "date" | reverse %}
 {% include projects/index.html %}
 
-<h2 class="text-center"><i class="fas fa-codefa-flip" style="--fa-animation-duration: 3s;"></i> coding <a href="https://github.com/users/mheriyanto/projects/14">[<i class="fab fa-github"></i>]</a></h2>
+<h2 class="text-center"><i class="fas fa-code"></i> coding <a href="https://github.com/users/mheriyanto/projects/14">[<i class="fab fa-github"></i>]</a></h2>
 {% assign sorted = site.projects | where_exp: "item", "item.type == 'code'" | sort: "date" | reverse %}
 {% include projects/index.html %}
 
-<h2 class="text-center"><i class="fas fa-camera fa-beat"></i> visionAI <a href="https://github.com/users/mheriyanto/projects/11">[<i class="fab fa-github"></i>]</a></h2>
+<h2 class="text-center"><i class="fas fa-camera"></i> visionAI <a href="https://github.com/users/mheriyanto/projects/11">[<i class="fab fa-github"></i>]</a></h2>
 {% assign sorted = site.projects | where_exp: "item", "item.type == 'ai'" | sort: "date" | reverse %}
 {% include projects/index.html %}
 
-<h2 class="text-center"><i class="fas fa-globe fa-fade"></i> geophysics <a href="https://github.com/users/mheriyanto/projects/8/views/1">[<i class="fab fa-github"></i>]</a></h2>
+<h2 class="text-center"><i class="fas fa-globe"></i> geophysics <a href="https://github.com/users/mheriyanto/projects/8/views/1">[<i class="fab fa-github"></i>]</a></h2>
 {% assign sorted = site.projects | where_exp: "item", "item.type == 'geo'" | sort: "date" | reverse %}
 {% include projects/index.html %}
 
-<h2 class="text-center"><i class="fas fa-list fa-beat"></i> alhazen <a href="https://github.com/users/mheriyanto/projects/12">[<i class="fab fa-github"></i>]</a></h2>
+<h2 class="text-center"><i class="fas fa-list"></i> alhazen <a href="https://github.com/users/mheriyanto/projects/12">[<i class="fab fa-github"></i>]</a></h2>
 {% assign sorted = site.projects | where_exp: "item", "item.type == 'nms'" | sort: "date" | reverse %}
 {% include projects/index.html %}
 
-<h2 class="text-center"><i class="fas fa-book fa-beat-fade"></i> past projects <a href="https://mheriyanto.wordpress.com/projects">[<i class="fab fa-wordpress"></i>]</a></h2>
+<h2 class="text-center"><i class="fas fa-book"></i> past projects <a href="https://mheriyanto.wordpress.com/projects">[<i class="fab fa-wordpress"></i>]</a></h2>
 
 {% include coding.html category="past" %}
 
-<span style="color:#993300;"><strong> Last updated on November 26th, 2022.</strong></span>
+<span style="color:#993300;"><strong> Last updated on November 4th, 2022.</strong></span>
