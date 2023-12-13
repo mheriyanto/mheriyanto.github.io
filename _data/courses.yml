@@ -66,7 +66,7 @@
   certificate_url: 
   note: It covers topics like Scalar Types, Operators and Control Flow, Strings, Collections and Iteration, Modularity, Objects and Types and Classes.
 
-## CERTIFICATIONS: GEOPHYSICS
+## CERTIFICATIONS: GEOSCIENCES
 
 - title: "Training Introduction of Geothermal Power Plant Operationg System"
   mooc: ITB International Geothermal Workshop
@@ -123,6 +123,45 @@
   certificate_url: https://drive.google.com/uc?export=view&id=1sRJYq6No9YtiLnksq7r2J8MPLmGTCLHS
   note: "Location: South Jakarta | Instructor: Muhammad Mustaqim"
 
+- title: "ioGAS Fundamentals - Module 1"
+  mooc: IMDEX
+  url: https://reflexnow.com/product/iogas
+  category:
+    - cergeo
+    - geosoft
+  author: PT Bumi Suksesindo
+  from: 2023-05-16
+  to: 2023-05-17
+  grade: 
+  certificate_url: https://drive.google.com/uc?export=view&id=1sRJYq6No9YtiLnksq7r2J8MPLmGTCLHS
+  note: "Location: Banyuwangi | Instructor: Putra Sadikin"
+
+- title: "Leapfrog Geo Fundamentals"
+  mooc: SEEQUENT
+  url: https://www.seequent.com/help-support/training/courses/leapfrog-geo-fundamentals-training
+  category:
+    - cergeo
+    - geosoft
+  author: PT Bumi Suksesindo
+  from: 2023-11-13
+  to: 2023-11-14
+  grade: 
+  certificate_url: https://drive.google.com/uc?export=view&id=1sRJYq6No9YtiLnksq7r2J8MPLmGTCLHS
+  note: "Location: Banyuwangi | Instructor: Joel Vergunst"
+
+- title: "Advanced Structural Leapfrog Geo Training"
+  mooc: SEEQUENT
+  url: https://www.seequent.com/help-support/training/courses/leapfrog-geo-advanced
+  category:
+    - cergeo
+    - geosoft
+  author: PT Bumi Suksesindo
+  from: 2023-11-15
+  to: 2023-11-15
+  grade: 
+  certificate_url: https://drive.google.com/uc?export=view&id=1sRJYq6No9YtiLnksq7r2J8MPLmGTCLHS
+  note: "Location: Banyuwangi | Instructor: Joel Vergunst"
+
 ## CERTIFICATIONS: GENERAL
 
 - title: "Stephen R. Covey's Seven Habits of Highly Effective College Students"
@@ -137,6 +176,18 @@
   grade: 100.00%
   certificate_url: https://drive.google.com/uc?export=view&id=1QTqjLSGzGlx2ILNV3GD6R7P9oC6VRkn0
   note: A life-changing student success course based on timeless principles of personal effectiveness.
+
+- title: "Safety Riding Basic Skill"
+  mooc: MPM Honda Jatim
+  url: https://mpmsafetyridingacademy.com/
+  category:
+    - cergen
+  author: PT Bumi Suksesindo
+  from: 2023-11-09
+  to: 2023-11-09
+  grade: 100.00%
+  certificate_url: https://drive.google.com/uc?export=view&id=1QTqjLSGzGlx2ILNV3GD6R7P9oC6VRkn0
+  note: Berkendara umum basic.
 
 ## ========== COURSES ==========
 
@@ -255,13 +306,13 @@
   certificate_url: 
   note: 
 
-## GEOPHYSICS
+## GEOSCIENCES
 
 - title: "CGG GeoSoftware: iRocks-CGG Rock Physics Education Series"
   mooc: Universitas Pertamina
   url: https://www.cgg.com/resources/media-events/training/rock-physics-seismic-interpretation-and-analysis-course
   category:
-    - geophysics
+    - geosciences
     - seismic
     - codge
   author: CGG
@@ -275,7 +326,7 @@
   mooc: ITB
   url: https://fti.itb.ac.id/the-4th-international-conference-on-instrumentation-control-and-automation-2016-ica-2016/
   category:
-    - geophysics
+    - geosciences
     - resistivity
     - codge
   author: Teknik Informatika-ITB

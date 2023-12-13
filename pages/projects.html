@@ -17,7 +17,7 @@ weight: 1
 {% assign sorted = site.projects | where_exp: "item", "item.type == 'ai'" | sort: "date" | reverse %}
 {% include projects/index.html %}
 
-<h2 class="text-center"><i class="fas fa-globe"></i> geophysics <a href="https://github.com/users/mheriyanto/projects/8/views/1">[<i class="fab fa-github"></i>]</a></h2>
+<h2 class="text-center"><i class="fas fa-globe"></i> geosciences <a href="https://github.com/users/mheriyanto/projects/8/views/1">[<i class="fab fa-github"></i>]</a></h2>
 {% assign sorted = site.projects | where_exp: "item", "item.type == 'geo'" | sort: "date" | reverse %}
 {% include projects/index.html %}
 

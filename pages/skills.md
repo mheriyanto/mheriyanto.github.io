@@ -11,7 +11,7 @@ weight: 4
 <h3 class="text-center"><i class="fas fa-server"></i> Others</h3>
 {% include skills/skills2.html %}
 
-<h3 class="text-center"><i class="fas fa-globe"></i> Geophysics</h3>
+<h3 class="text-center"><i class="fas fa-globe"></i> Geosciences</h3>
 {% include skills/geo.html %}
 
 <h3 class="text-center"><i class="fab fa-github"></i> Metrics</h3>

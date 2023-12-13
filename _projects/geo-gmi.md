@@ -1,6 +1,6 @@
 ---
 name: gmi
-tools: [geo, geophysics, inversion, python]
+tools: [geo, geosciences, inversion, python]
 image: assets/project_images/banner-gmi.png
 description: 🌏 web-based apps of geophysical modeling & inversion
 external_url: https://gmi-mh.herokuapp.com

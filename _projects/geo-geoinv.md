@@ -1,6 +1,6 @@
 ---
 name: GeoInv Software
-tools: [geophysics, inversion, matlab, past]
+tools: [geosciences, inversion, matlab, past]
 image: assets/project_images/mheriyanto.dev.png
 description: 🌏 geophysical inversion application using matlab
 external_url: https://mheriyanto.wordpress.com/software
