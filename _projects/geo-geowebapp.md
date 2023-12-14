@@ -1,6 +1,6 @@
 ---
 name: Geo WebApps
-tools: [geosciences, inversion, python, past]
+tools: [geoscience, inversion, python, past]
 image: assets/project_images/mheriyanto.dev.png
 description: 🌏 web-based seismic processing application
 external_url: http://45.55.200.133

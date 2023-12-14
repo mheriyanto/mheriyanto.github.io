@@ -1,6 +1,6 @@
 ---
 name: ezygeo
-tools: [org, geosciences, machine-learning]
+tools: [org, geoscience, machine-learning]
 image: assets/logos/ezygeo.png
 description: 🌏 applications of data science or machine learning methods in geophysics
 external_url: https://ezygeo.github.io

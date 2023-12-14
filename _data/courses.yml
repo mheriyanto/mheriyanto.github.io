@@ -66,7 +66,7 @@
   certificate_url: 
   note: It covers topics like Scalar Types, Operators and Control Flow, Strings, Collections and Iteration, Modularity, Objects and Types and Classes.
 
-## CERTIFICATIONS: GEOSCIENCES
+## CERTIFICATIONS: GEOSCIENCE
 
 - title: "Training Introduction of Geothermal Power Plant Operationg System"
   mooc: ITB International Geothermal Workshop
@@ -306,13 +306,13 @@
   certificate_url: 
   note: 
 
-## GEOSCIENCES
+## GEOSCIENCE
 
 - title: "CGG GeoSoftware: iRocks-CGG Rock Physics Education Series"
   mooc: Universitas Pertamina
   url: https://www.cgg.com/resources/media-events/training/rock-physics-seismic-interpretation-and-analysis-course
   category:
-    - geosciences
+    - geoscience
     - seismic
     - codge
   author: CGG
@@ -326,7 +326,7 @@
   mooc: ITB
   url: https://fti.itb.ac.id/the-4th-international-conference-on-instrumentation-control-and-automation-2016-ica-2016/
   category:
-    - geosciences
+    - geoscience
     - resistivity
     - codge
   author: Teknik Informatika-ITB
