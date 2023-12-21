@@ -1,6 +1,6 @@
 ---
 layout: page
-title: seminars
+title: seminars - mheriyanto
 permalink: /seminars
 ---
 

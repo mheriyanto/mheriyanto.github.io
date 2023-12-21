@@ -1,6 +1,6 @@
 ---
 layout: default
-title: skills
+title: skills - mheriyanto
 permalink: /skills
 weight: 4
 ---

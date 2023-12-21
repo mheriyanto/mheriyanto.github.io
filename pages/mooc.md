@@ -1,6 +1,6 @@
 ---
 layout: page
-title: mooc
+title: mooc - mheriyanto
 permalink: /mooc
 ---
 
