@@ -162,6 +162,20 @@
   certificate_url: https://drive.google.com/uc?export=view&id=1sRJYq6No9YtiLnksq7r2J8MPLmGTCLHS
   note: "Location: Banyuwangi | Instructor: Joel Vergunst"
 
+## CERTIFICATIONS: SUPERVISOR
+
+- title: "Pengawas Operasional Pertama Mineral dan Batubara (POP) / First Operation Supervisor for Mineral and Coal Mining"
+  mooc: Badan Nasional Sertifikasi Profesi (BNSP) - LSP Energi Mandiri (LSP-1238-ID)
+  url: https://www.lspenergimandiri.com/
+  category:
+    - cersup
+  author: PT Bumi Suksesindo
+  from: 2023-12-22
+  to: 2023-12-22
+  grade: 
+  certificate_url: https://drive.google.com/uc?export=view&id=1sRJYq6No9YtiLnksq7r2J8MPLmGTCLHS
+  note: "Location: Banyuwangi (Online) | Asesor: Arif Nuryono (MET.000.009732 2017)"
+
 ## CERTIFICATIONS: GENERAL
 
 - title: "Stephen R. Covey's Seven Habits of Highly Effective College Students"
@@ -182,6 +196,7 @@
   url: https://mpmsafetyridingacademy.com/
   category:
     - cergen
+    - leadership
   author: PT Bumi Suksesindo
   from: 2023-11-09
   to: 2023-11-09
@@ -228,6 +243,72 @@
   note: Courses taught by Vijay Janapa Reddi
 
 ## Udemy
+
+- title: "Microsoft Excel - Excel from Beginner to Advanced"
+  mooc: Udemy
+  url: https://www.udemy.com/course/microsoft-excel-2013-from-beginner-to-advanced-and-beyond
+  category:
+    - udemy
+    - data
+  author: Kyle Pew, Office Newb
+  from: 2023-12-27
+  to: 9999-01-01
+  grade: 
+  certificate_url: 
+  note: "Excel with this A-Z Microsoft Excel Course. Microsoft Excel 2010, 2013, 2016, Excel 2019 and Microsoft/Office 365/2023."
+
+- title: "Microsoft Access Complete Beginner to Advanced"
+  mooc: Udemy
+  url: https://www.udemy.com/course/microsoft-access-complete-beginner-to-advanced
+  category:
+    - udemy
+    - data
+  author: Kyle Pew, Office Newb
+  from: 2023-12-27
+  to: 9999-01-01
+  grade: 
+  certificate_url: 
+  note: "Ultimate Microsoft Access Training - Create & Maintain Access Tables, Access Queries, Access Forms, Access Reports."
+
+- title: "Microsoft Power BI - The Practical Guide 2023"
+  mooc: Udemy
+  url: https://www.udemy.com/course/powerbi-complete-introduction
+  category:
+    - udemy
+    - data
+  author: Manuel Lorenz, Academind by Maximilian Schwarzmüller
+  from: 2023-12-27
+  to: 9999-01-01
+  grade: 
+  certificate_url: 
+  note: "Dive in and learn the Power BI tools! Learn Data Analysis & Visualization and more in Power BI Desktop & Power BI Pro!"
+
+- title: "Complete Microsoft SQL Server Database Administration Course"
+  mooc: Udemy
+  url: https://www.udemy.com/course/complete-microsoft-sql-server-database-administration-course
+  category:
+    - udemy
+    - data
+  author: Imran Afzal, Abbas Mehmood
+  from: 2023-12-27
+  to: 9999-01-01
+  grade: 
+  certificate_url: 
+  note: "Mastering Database Management and Security with Microsoft SQL Server."
+
+- title: "Data Analysis with Pandas and Python"
+  mooc: Udemy
+  url: https://www.udemy.com/course/data-analysis-with-pandas
+  category:
+    - udemy
+    - data
+  author: Boris Paskaver
+  from: 2023-12-27
+  to: 9999-01-01
+  grade: 
+  certificate_url: 
+  note: "Analyze data quickly and easily with Python's powerful pandas library! All datasets included --- beginners welcome!"
+
 - title: "Detecting Memory Leaks in C/C++ Applications"
   mooc: Udemy
   url: https://www.udemy.com/course/cpp_leaks
