@@ -249,7 +249,7 @@
   url: https://www.udemy.com/course/microsoft-excel-2013-from-beginner-to-advanced-and-beyond
   category:
     - udemy
-    - data
+    - analytics
   author: Kyle Pew, Office Newb
   from: 2023-12-27
   to: 9999-01-01
@@ -262,7 +262,7 @@
   url: https://www.udemy.com/course/microsoft-access-complete-beginner-to-advanced
   category:
     - udemy
-    - data
+    - analytics
   author: Kyle Pew, Office Newb
   from: 2023-12-27
   to: 9999-01-01
@@ -275,7 +275,7 @@
   url: https://www.udemy.com/course/powerbi-complete-introduction
   category:
     - udemy
-    - data
+    - analytics
   author: Manuel Lorenz, Academind by Maximilian Schwarzmüller
   from: 2023-12-27
   to: 9999-01-01
@@ -288,7 +288,7 @@
   url: https://www.udemy.com/course/complete-microsoft-sql-server-database-administration-course
   category:
     - udemy
-    - data
+    - analytics
   author: Imran Afzal, Abbas Mehmood
   from: 2023-12-27
   to: 9999-01-01
@@ -301,7 +301,7 @@
   url: https://www.udemy.com/course/data-analysis-with-pandas
   category:
     - udemy
-    - data
+    - analytics
   author: Boris Paskaver
   from: 2023-12-27
   to: 9999-01-01
