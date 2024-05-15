@@ -16,4 +16,4 @@ weight: 4
 
 <h3 class="text-center"><i class="fab fa-github"></i> Metrics</h3>
 
-![Metrics](https://metrics.lecoq.io/insights/mheriyanto)
+<iframe src="https://metrics.lecoq.io/insights/mheriyanto" onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:800px;width:100%;border:none;overflow:hidden;"></iframe>
