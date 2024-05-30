@@ -256,6 +256,19 @@
 
 ## Udemy
 
+- title: "Complete Introduction to Looker Studio (Google Data Studio)"
+  mooc: Udemy
+  url: https://www.udemy.com/course/data-analysis-and-dashboards-with-google-data-studio
+  category:
+    - udemy
+    - analytics
+  author: Ian Littlejohn
+  from: 2024-05-30
+  to: 9999-01-01
+  grade: 
+  certificate_url: 
+  note: "Learn how to create powerful data analysis, reports and dashboards with Looker Studio (formerly Google Data Studio)."
+
 - title: "Microsoft Excel - Excel from Beginner to Advanced"
   mooc: Udemy
   url: https://www.udemy.com/course/microsoft-excel-2013-from-beginner-to-advanced-and-beyond
