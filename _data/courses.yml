@@ -49,7 +49,7 @@
   to: 9999-01-01
   grade: 
   certificate_url: 
-  note: Courses taught by Vijay Janapa Reddi
+  note: "Courses taught by Vijay Janapa Reddi."
 
 ## CERTIFICATIONS: PROGRAMMING
 
@@ -64,13 +64,13 @@
   to: 9999-01-01
   grade: 
   certificate_url: 
-  note: It covers topics like Scalar Types, Operators and Control Flow, Strings, Collections and Iteration, Modularity, Objects and Types and Classes.
+  note: "It covers topics like Scalar Types, Operators and Control Flow, Strings, Collections and Iteration, Modularity, Objects and Types and Classes."
 
 ## CERTIFICATIONS: GEOSCIENCE
 
 - title: "Training Introduction of Geothermal Power Plant Operationg System"
   mooc: ITB International Geothermal Workshop
-  url: https://geothermal.itb.ac.id/training-program-online/
+  url: https://geothermal.itb.ac.id/training-program-online
   category:
     - cergeo
     - geothermal
@@ -97,7 +97,7 @@
 
 - title: "IRIS Syscal Pro - 48 Channel automatic Geoelectrical Instrument"
   mooc: PT Jatific
-  url: https://www.jatific.com/product/syscal-pro/
+  url: https://www.jatific.com/product/syscal-pro
   category:
     - cergeo
     - instrumentation
@@ -111,7 +111,7 @@
 
 - title: "GPR MALA Easy Locator Pro WideRange HDR"
   mooc: PT Exact Global Teknologi
-  url: https://www.exactglobal.co.id/mala-easy-locator-pro-widerange-hdr-new/
+  url: https://www.exactglobal.co.id/mala-easy-locator-pro-widerange-hdr-new
   category:
     - cergeo
     - instrumentation
@@ -166,7 +166,7 @@
 
 - title: "Pengawas Operasional Pertama Mineral dan Batubara (POP) / First Operation Supervisor for Mineral and Coal Mining"
   mooc: Badan Nasional Sertifikasi Profesi (BNSP) - LSP Energi Mandiri (LSP-1238-ID)
-  url: https://www.lspenergimandiri.com/
+  url: https://www.lspenergimandiri.com
   category:
     - cersup
   author: PT Bumi Suksesindo
@@ -180,7 +180,7 @@
 
 - title: "Stephen R. Covey's Seven Habits of Highly Effective College Students"
   mooc: ITB
-  url: https://www.franklincovey.com/solutions/education/higher-education/7habitscollege/
+  url: https://www.franklincovey.com/solutions/education/higher-education/7habitscollege
   category:
     - cergen
     - leadership
@@ -189,11 +189,11 @@
   to: 2012-08-07
   grade: 100.00%
   certificate_url: https://drive.google.com/uc?export=view&id=1QTqjLSGzGlx2ILNV3GD6R7P9oC6VRkn0
-  note: A life-changing student success course based on timeless principles of personal effectiveness.
+  note: "A life-changing student success course based on timeless principles of personal effectiveness."
 
 - title: "Safety Riding Basic Skill"
   mooc: MPM Honda Jatim
-  url: https://mpmsafetyridingacademy.com/
+  url: https://mpmsafetyridingacademy.com
   category:
     - cergen
     - leadership
@@ -202,7 +202,7 @@
   to: 2023-11-09
   grade: 100.00%
   certificate_url: https://drive.google.com/uc?export=view&id=1QTqjLSGzGlx2ILNV3GD6R7P9oC6VRkn0
-  note: Berkendara umum basic.
+  note: "Berkendara umum basic."
 
 - title: "Line Manager Leadership Development Program - Supervisor Level"
   mooc: Training and Development (TnD)
@@ -214,7 +214,7 @@
   to: 2023-12-13
   grade:
   certificate_url: https://drive.google.com/uc?export=view&id=1QTqjLSGzGlx2ILNV3GD6R7P9oC6VRkn0
-  note: Session 1> Self Awarness - Understanding Others; Session 2> Effective Communication - Coaching Conversation; and Session 3> Problem Solving and Decision Making.
+  note: "Session 1> Self Awarness - Understanding Others; Session 2> Effective Communication - Coaching Conversation; and Session 3> Problem Solving and Decision Making."
 
 ## ========== COURSES ==========
 
@@ -233,7 +233,7 @@
   to: 9999-01-01
   grade: 
   certificate_url: 
-  note: Part of AI visionary Andrew Ng
+  note: "Part of AI visionary Andrew Ng."
 
 ## edX
 
@@ -252,7 +252,7 @@
   to: 9999-01-01
   grade: 
   certificate_url: 
-  note: Courses taught by Vijay Janapa Reddi
+  note: "Courses taught by Vijay Janapa Reddi."
 
 ## Udemy
 
@@ -332,7 +332,7 @@
   to: 9999-01-01
   grade: 
   certificate_url: 
-  note: "Analyze data quickly and easily with Python's powerful pandas library! All datasets included --- beginners welcome!"
+  note: "Analyze data quickly and easily with Python's powerful pandas library!"
 
 - title: "Detecting Memory Leaks in C/C++ Applications"
   mooc: Udemy
@@ -350,7 +350,7 @@
 
 - title: "Deploying machine learning models with flask for beginners"
   mooc: Udemy
-  url: https://www.udemy.com/course/deploying-machine-learning-models-with-flask-for-beginners/
+  url: https://www.udemy.com/course/deploying-machine-learning-models-with-flask-for-beginners
   category:
     - udemy
     - ai
@@ -361,11 +361,11 @@
   to: 2022-10-12
   grade: 
   certificate_url: https://www.udemy.com/certificate/UC-469f4004-b72e-4613-8e4e-dae3ba5ac865/
-  note: "2 sections | 18 lectures | 2h 31m total length"
+  note: "2 sections | 18 lectures | 2h 31m total length."
 
 - title: "Become a Web Developer from Scratch"
   mooc: Udemy
-  url: https://www.udemy.com/course/draft/11174/
+  url: https://www.udemy.com/course/draft/11174
   category:
     - udemy
     - web
@@ -382,7 +382,7 @@
 
 - title: "Machine Learning A-Z™: Hands-On Python & R In Data Science"
   mooc: Udemy
-  url: https://www.udemy.com/course/machinelearning/
+  url: https://www.udemy.com/course/machinelearning
   category:
     - udemy
     - ai
@@ -393,13 +393,13 @@
   to: 9999-01-01
   grade: 
   certificate_url: 
-  note: "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. 45 sections | 320 lectures | 44h 29m total length"
+  note: "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. 45 sections | 320 lectures | 44h 29m total length."
 
 ## Linux
 
 - title: "Introduction to Linux (LFS101x)"
   mooc: Linux
-  url: https://training.linuxfoundation.org/training/introduction-to-linux/
+  url: https://training.linuxfoundation.org/training/introduction-to-linux
   category:
     - linux
     - code
@@ -430,7 +430,7 @@
 
 - title: "Electrical Impedance Tomography: Computational on Forward and Inverse Problem"
   mooc: ITB
-  url: https://fti.itb.ac.id/the-4th-international-conference-on-instrumentation-control-and-automation-2016-ica-2016/
+  url: https://fti.itb.ac.id/the-4th-international-conference-on-instrumentation-control-and-automation-2016-ica-2016
   category:
     - geoscience
     - resistivity
